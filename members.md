@@ -64,9 +64,9 @@
 
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://wp.doc.ic.ac.uk/sd/" target="_top">Sophia Drossopoulou</a> </td><td bgcolor="#f6f6f6"> Imperial College </td><td bgcolor="#f6f6f6"> UK </td><td bgcolor="#f6f6f6"> 2015-2019 </td></tr>
 
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://eelcovisser.org/" target="_top">Eelco Visser †</a> </td><td bgcolor="#ececec"> Delft University of Technology </td><td bgcolor="#ececec"> NL </td><td bgcolor="#ececec"> 2011 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://eelcovisser.org/" target="_top">Eelco Visser †</a> </td><td bgcolor="#ececec"> Delft University of Technology </td><td bgcolor="#ececec"> NL </td><td bgcolor="#ececec"> 2011-2022 </td></tr>
 
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.cs.utexas.edu/users/wcook" target="_top">William R. Cook †</a> </td><td bgcolor="#f6f6f6"> University of Texas, Austin </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2011 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.cs.utexas.edu/users/wcook" target="_top">William R. Cook †</a> </td><td bgcolor="#f6f6f6"> University of Texas, Austin </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2011-2021 </td></tr>
 
 
 </table>
