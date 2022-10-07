@@ -31,7 +31,8 @@ For these reasons, this working group seeks to develop a balance between the ben
 - 9: [Antwerp 2018](meetings/Antwerp2018.md)
 - 10: [Portland 2019](meetings/Portland2019.md)
 - 11: [Nice 2019](meetings/Nice2019.md)
-
+- 12: [Online 2021](meetings/Online2021.md)
+- 13: [Online 2022](meetings/Online2022.md)
 
 [Photos](http://www.flickr.com/groups/wgld/)
 
