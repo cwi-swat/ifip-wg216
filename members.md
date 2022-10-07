@@ -18,7 +18,6 @@
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://edwinb.wordpress.com/" target="_top">Edwin Brady</a> </td><td bgcolor="#f6f6f6"> University of St. Andrews </td><td bgcolor="#f6f6f6"> UK </td><td bgcolor="#f6f6f6"> 2015 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.cs.pomona.edu/~kim" target="_top">Kim Bruce</a> </td><td bgcolor="#ececec"> Pomona College </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://www.ponylang.io/" target="_top">Sylvan Clebsch</a> </td><td bgcolor="#f6f6f6"> Microsoft Research Cambridge </td><td bgcolor="#f6f6f6"> UK </td><td bgcolor="#f6f6f6"> 2019 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.cs.utexas.edu/users/wcook" target="_top">William R. Cook</a> </td><td bgcolor="#ececec"> University of Texas, Austin </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://adam.chlipala.net/" target="_top">Adam Chlipala</a> </td><td bgcolor="#f6f6f6"> MIT </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="https://lukechurchnet.appspot.com/" target="_top">Luke Church</a> </td><td bgcolor="#ececec"> U. Cambridge </td><td bgcolor="#ececec"> UK </td><td bgcolor="#ececec"> 2017 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a class="twikiLink" href="TomVanCutsem.html">Tom Van Cutsem</a> </td><td bgcolor="#f6f6f6"> Nokia Bell Labs </td><td bgcolor="#f6f6f6"> BE </td><td bgcolor="#f6f6f6"> 2011 </td></tr>
@@ -40,12 +39,12 @@
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://homepages.ecs.vuw.ac.nz/~kjx" target="_top">James Noble</a> </td><td bgcolor="#f6f6f6"> Victoria University of Wellington </td><td bgcolor="#f6f6f6"> NZ </td><td bgcolor="#f6f6f6"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://lampwww.epfl.ch/~odersky/" target="_top">Martin Odersky</a> </td><td bgcolor="#ececec"> EPFL </td><td bgcolor="#ececec"> CH </td><td bgcolor="#ececec"> 2017 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.informatik.uni-marburg.de/~kos/" target="_top">Klaus Ostermann</a> </td><td bgcolor="#f6f6f6"> University of Marburg </td><td bgcolor="#f6f6f6"> DE </td><td bgcolor="#f6f6f6"> 2015 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://gallium.inria.fr/~fpottier/" target="_top">Fran�ois Pottier</a> </td><td bgcolor="#ececec"> INRIA </td><td bgcolor="#ececec"> FR </td><td bgcolor="#ececec"> 2018 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://gallium.inria.fr/~fpottier/" target="_top">François Pottier</a> </td><td bgcolor="#ececec"> INRIA </td><td bgcolor="#ececec"> FR </td><td bgcolor="#ececec"> 2018 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://people.mpi-sws.org/~rossberg/" target="_top">Andreas Rossberg</a> </td><td bgcolor="#f6f6f6"> Max Planck Institute </td><td bgcolor="#f6f6f6"> DE </td><td bgcolor="#f6f6f6"> 2019 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="https://www-sop.inria.fr/members/Manuel.Serrano/" target="_top">Manuel Serrano</a> </td><td bgcolor="#ececec"> INRIA </td><td bgcolor="#ececec"> FR </td><td bgcolor="#ececec"> 2016 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://cgi.di.uoa.gr/~smaragd/" target="_top">Yannis Smaragdakis</a> </td><td bgcolor="#f6f6f6"> University of Athens </td><td bgcolor="#f6f6f6"> GR </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://homepages.cwi.nl/~storm/" target="_top">Tijs van der Storm</a> </td><td bgcolor="#ececec"> CWI &amp; University of Groningen </td><td bgcolor="#ececec"> NL </td><td bgcolor="#ececec"> 2013 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://www.dcc.uchile.cl/eric_tanter" target="_top">�ric Tanter</a> </td><td bgcolor="#f6f6f6"> University of Chile </td><td bgcolor="#f6f6f6"> CL </td><td bgcolor="#f6f6f6"> 2018 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://www.dcc.uchile.cl/eric_tanter" target="_top">Éric Tanter</a> </td><td bgcolor="#f6f6f6"> University of Chile </td><td bgcolor="#f6f6f6"> CL </td><td bgcolor="#f6f6f6"> 2018 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.cs.cornell.edu/~ross/" target="_top">Ross Tate</a> </td><td bgcolor="#ececec"> Cornell University </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2015 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://samth.github.io/" target="_top">Sam Tobin-Hochstadt</a> </td><td bgcolor="#f6f6f6"> Indiana University </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2015 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://eelcovisser.org/" target="_top">Eelco Visser</a> </td><td bgcolor="#ececec"> Delft University of Technology </td><td bgcolor="#ececec"> NL </td><td bgcolor="#ececec"> 2011 </td></tr>
@@ -61,7 +60,14 @@
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://en.wikipedia.org/wiki/Daniel_Henry_Holmes_Ingalls,_Jr." target="_top">Dan Ingalls</a> </td><td bgcolor="#ececec"> SAP </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011-2014 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://research.microsoft.com/en-us/um/people/emeijer/default.aspx" target="_top">Erik Meijer</a> </td><td bgcolor="#f6f6f6"> Microsoft </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2011-2014 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.doc.ic.ac.uk/~susan" target="_top">Susan Eisenbach</a> </td><td bgcolor="#ececec"> Imperial College </td><td bgcolor="#ececec"> UK </td><td bgcolor="#ececec"> 2011-2013 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.dawis.wiwi.uni-due.de/team/stefan-hanenberg/" target="_top">Stefan Hanenberg</a> </td><td bgcolor="#f6f6f6"> Universit�t Duisburg-Essen </td><td bgcolor="#f6f6f6"> DE </td><td bgcolor="#f6f6f6"> 2013-2017 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.dawis.wiwi.uni-due.de/team/stefan-hanenberg/" target="_top">Stefan Hanenberg</a> </td><td bgcolor="#f6f6f6"> Universität Duisburg-Essen </td><td bgcolor="#f6f6f6"> DE </td><td bgcolor="#f6f6f6"> 2013-2017 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://blogs.msdn.com/madst/" target="_top">Mads Torgersen</a> </td><td bgcolor="#ececec"> Microsoft </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011-2019 </td></tr>
+
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://wp.doc.ic.ac.uk/sd/" target="_top">Sophia Drossopoulou</a> </td><td bgcolor="#f6f6f6"> Imperial College </td><td bgcolor="#f6f6f6"> UK </td><td bgcolor="#f6f6f6"> 2015-2019 </td></tr>
+
+<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://eelcovisser.org/" target="_top">Eelco Visser †</a> </td><td bgcolor="#ececec"> Delft University of Technology </td><td bgcolor="#ececec"> NL </td><td bgcolor="#ececec"> 2011 </td></tr>
+
+<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.cs.utexas.edu/users/wcook" target="_top">William R. Cook †</a> </td><td bgcolor="#f6f6f6"> University of Texas, Austin </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2011 </td></tr>
+
+
 </table>
