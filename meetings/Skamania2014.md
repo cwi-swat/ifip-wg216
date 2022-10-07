@@ -96,6 +96,40 @@ On Friday we only meet in the morning:
 </ul>
 <p />
 <h2><a name="Proceedings"> </a> Proceedings </h2>
-<p />
-<a class="twikiLink" href="MeetingProceedings2014.html">MeetingProceedings2014</a>
+
+### Sean McDirmid: Programming with Managed Time in Glitch
+
+Most programming languages expose the hardware's ability to update global state at any time, leaving programmers to carefully coordinate state updates; an especially tricky task for reactive, concurrent, incremental, or iterative behaviors. As observed by Jonathan Edwards, just as languages runtimes now liberate us from meticulously allocating and freeing memory, they could also properly order state updates for us. In this spirit, we propose a new programming model, Glitch, where all updates between external events appear to execute simultaneously through a combination of incremental replay and update rollback. Programs in Glitch are then immediately responsive to event-induced changes, are iterative without extra logic, and are deterministic in their concurrency. By rationalizing state update, program executions in Glitch can also be replayed in an IDE, and can be revised incrementally under arbitrary code changes.
+
+### Mads Torgersen: Opening up C#
+
+The C# team is changing its ways: the C# compiler is rewritten (in C#) with a public API that is immutable, efficient, detailed and full-fidelity. The whole compiler code base is open source. Language design notes are public – everyone gets to see how the sausage is made. In the talk I’ll give the lay of the land and see where the discussion goes. One interesting aspect is whether this codebase is interesting for teaching: the industry has come a long way since the dragon book.
+
+### Jonathan Edwards: Two-way Dataflow
+
+Subtext is an experiment in radical simplification of application programming. The goal is to combine the power of frameworks like Rails and iOS with the simplicity of a spreadsheet. Mutable state is a notorious source of complexity in application programming and indeed has long been a central concern in programming language design. I propose a new approach called two-way dataflow which breaks the program into cyclic output and input phases. Output is handled with a form of pure lazy functional programming. Input is governed by a new semantics called one-way action which is a highly restricted form of event-driven imperative programming. Two-way dataflow has been designed not only to simplify the semantics of imperative programming but also to allow a representation in the IDE that, like a spreadsheet, provides a fully WYSIWYG programming experience.
+
+### Adam Chlipala: Separating Functionality and Optimizations: A New Programming Paradigm Enabled by Formal Methods?
+
+Programming language design has progressed largely through the invention of new mechanisms for abstraction and modularity. We often expect our languages to enforce modularity, rejecting programs that would break abstraction boundaries. One important sort of modularity has largely eluded us: separating the functionality of a program from the optimizations that lead us to a performant enough implementation. To understand a program, a reader must wade through optimizations that obscure the underlying intent and structure. How might we get a programming language to enforce correct schemes of separating functionality and optimizations? Traditional modularity mechanisms don't seem up to the challenge, considering the breadth of optimization techniques that programmers feel compelled to apply in different contexts.
+
+I suggest that we use one of the strongest known modularity mechanisms: formal (machine-checked) proof of adherence to specifications. A well-designed specification language lets us say exactly what we mean to say, in as few lines of code as possible. A well-designed proof system gives us plenty of flexibility in demonstrating why a program module meets its specification. These are the ingredients we need to support language-enforced modularity between features and optimizations.
+
+In particular, we are working on a system codenamed Fiat, a library within the Coq proof assistant. The unifying metaphor is correct-by-construction program refinement, an idea with a venerable history in the world of program synthesis. The "functionality" part of a program can be a program with some nondeterministic operations. Our goal is to replace the nondeterminism with efficient code, in a logically sound way called refinement. Any notation for writing down refinement strategies constitutes the "optimizations" part of a program; mistakes in it cannot lead to "breaking the semantics" of a program, since Coq is checking each of our refinements, which must be proved correct. I will demo some of our experiments so far, refining SQL-style specifications into decently efficient functional programs.
+
+### Tom van Cutsem: The rise and fall (and rise?) of distributed programming languages
+
+Context/abstract: the 1970's and '80s marked an era of innovation in the domain of distributed programming languages. Innovative languages such as Argus (Liskov et al), Emerald (Jul, Black et al), Occam (May, Hoare et al), Erlang (Armstrong et al), Modula-3 (Cardelli et al), etc. were all designed during those days. In the '90s, with the emergence of Java, we saw a shift toward so-called "middleware", such as Java RMI, CORBA, etc. where most distributed systems concerns were no longer dealt with in the programming language. Today, these object-oriented middleware systems are in turn largely superseded by "service-oriented architectures", web services or resource-oriented REST architectures. Whatever happened to good old distributed programming languages? Have they failed? If so, why? If not, why are they receiving so little attention? What can we learn from the past to improve the future of distributed programming abstractions?
+
+### James Noble: Capabilities, Trust, and Risk
+
+The Escrow Exchange Contract has been used as a case study of building up complex and trustworthy systems from basic object capabilities, {in the context of concurrent and distributed programming. I'll present a Rational Reconstruction of the Escrow Exchange Contract case study, expressed in Grace, concentrating on the most essential issues of trustworthiness, and ignoring issues to do with distribution or more complex protocols.
+
+
+### Roberto Ierusalimschy: OO in Lua (or DIY OO Systems)
+
+Lua presents a very basic and simple class-based object-oriented model. In this talk, I discuss how we can build rich prototype-based object-oriented models on top of the original simple model.
+
+
+
 </div>
