@@ -95,7 +95,10 @@ On Friday we only meet in the morning:
 </li>
 </ul>
 <p />
-<h2><a name="Proceedings"> </a> Proceedings </h2>
+
+</div>
+
+## Proceedings 
 
 ### Sean McDirmid: Programming with Managed Time in Glitch
 
@@ -132,4 +135,3 @@ Lua presents a very basic and simple class-based object-oriented model. In this 
 
 
 
-</div>
