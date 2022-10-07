@@ -364,7 +364,7 @@ single-threaded execution performance.
 <p />
 <h3><a name="Matthias_Hauswirth_Misconception"> </a> Matthias Hauswirth: Misconceptions &amp; PL Design </h3>
 <p />
-Programming languages are conceptually dense constructions. Expressing a program in a given language requires an accurate understanding of the concepts of that language. A programmer�s misconceptions about a language eventually lead to incorrect programs.
+Programming languages are conceptually dense constructions. Expressing a program in a given language requires an accurate understanding of the concepts of that language. A programmer's misconceptions about a language eventually lead to incorrect programs.
 <p />
 In this talk I will give a brief introduction to an area of the learning sciences focusing on human conceptions, misconceptions, and conceptual change. I will then try to connect these ideas to programming language design. My goal with this talk is to trigger discussions on PL design and evaluation by stepping outside the normal PL design zone.
 <p />
