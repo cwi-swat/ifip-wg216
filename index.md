@@ -1,5 +1,8 @@
-# IFIP TC2 Working Group 2.16 Language Design
+---
+layout: default
+---
 
+# IFIP TC2 Working Group 2.16 Language Design
 
 ## Mission
 
