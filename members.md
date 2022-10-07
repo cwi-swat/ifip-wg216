@@ -47,7 +47,6 @@
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://www.dcc.uchile.cl/eric_tanter" target="_top">Éric Tanter</a> </td><td bgcolor="#f6f6f6"> University of Chile </td><td bgcolor="#f6f6f6"> CL </td><td bgcolor="#f6f6f6"> 2018 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.cs.cornell.edu/~ross/" target="_top">Ross Tate</a> </td><td bgcolor="#ececec"> Cornell University </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2015 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://samth.github.io/" target="_top">Sam Tobin-Hochstadt</a> </td><td bgcolor="#f6f6f6"> Indiana University </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2015 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://eelcovisser.org/" target="_top">Eelco Visser</a> </td><td bgcolor="#ececec"> Delft University of Technology </td><td bgcolor="#ececec"> NL </td><td bgcolor="#ececec"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.voelter.de/" target="_top">Markus Voelter</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td><td bgcolor="#f6f6f6"> DE </td><td bgcolor="#f6f6f6"> 2015 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://tinlizzie.org/~awarth" target="_top">Alessandro Warth</a> </td><td bgcolor="#ececec"> Google </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
 </table>
