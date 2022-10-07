@@ -1,110 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-
-<!-- Mirrored from program-transformation.org/WGLD/Meeting2018 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:27:40 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" /><!-- /Added by HTTrack -->
-<head>
-  <title>   WGLD / Meeting 2018</title>
-  <link rel="alternate" href="../view/WGLD/WebRssf1ff?skin=rss" type="application/rss+xml" title="Recent Changes" />
-  <link rel="shortcut icon" href="http://www.cs.uu.nl/favicon.ico" type="image/x-icon" />
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  
-  <style type="text/css" media="all">
-	 @import url("../pub/TWiki/FlexPatternSkin/layout.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/style.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/flexmenu.css");
-	 .twikiToc li {
-		list-style-image:url(../pub/TWiki/FlexPatternSkin/i_arrow_down.gif);
-	 }
-  </style>
-  <style type="text/css" media="all"></style>
-  <script type="text/javascript">
-  <!-- HIDE
-	function initPage() { }
-  -->
-  </script>
-  <script type="text/javascript" src="../pub/TWiki/FlexPatternSkin/flexmenu.js"></script>
-
-</head>
-<body class="twikiViewPage" onload="initPage()"><div class="fullPage">
-<div class="twikiMiddleContainer"><div class="twikiLeftBar">
-  <div class="twikiLeftBarContents">
-    <center><font size="+1"><b><a href="../view/WGLD/WebHome.html" style="color:black">WGLD</a></b></font></center>
-<hr color="black" size="1" noshade>
-<ul>
-<li> <a class="twikiLink" href="WebHome.html">Home</a>
-</li>
-<li> <a class="twikiLink" href="Proposal.html">IFIP Proposal</a>
-</li>
-<li> <a class="twikiLink" href="GroupMembers.html">Members</a>
-</li>
-<li> <a class="twikiLink" href="Meetings.html">Meetings</a>
-</li>
-</ul>
-<p />
-<br>
-<p />
-  </div>
-</div><div class="twikiMain"><div class="toolBar">
-<div class="flexMenuBar"><div class="flexMenu" onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);">
-  <p>Page</p>
-  <div id="flexMenuContent100" class="flexMenuContent">
-    <ul>
-      <li><a href="https://program-transformation.org/edit/WGLD/Meeting2018?t=1595608569">Edit Page</a></li>
-      <li><a href="https://program-transformation.org/rename/WGLD/Meeting2018">Rename Page</a></li>
-      <li><a href="../attach/WGLD/Meeting2018.html">Attach File</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/WGLD/Meeting2018ff14.html?skin=print.pattern">Printable</a></li>
-      <li><a href="../view/WGLD/Meeting2018b7e4?skin=text&amp;raw=on&amp;contenttype=text/plain">Wiki Source</a></li>
-    </ul>
-    <ul>
-       <li class="revision"><a href="../view/WGLD/Meeting2018824d.html?rev=1.24">Rev 24</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2018?rev1=1.24&amp;rev2=1.23">(diff 23)</a></li> <li class="revision"><a href="../view/WGLD/Meeting2018302c.html?rev=1.23">Rev 23</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2018?rev1=1.23&amp;rev2=1.22">(diff 22)</a></li> <li class="revision"><a href="../view/WGLD/Meeting20184305.html?rev=1.22">Rev 22</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2018?rev1=1.22&amp;rev2=1.21">(diff 21)</a></li>
-      <li><a href="https://program-transformation.org/rdiff/WGLD/Meeting2018">Total History</a></li>
-    </ul>
-    <ul>
-      <li><a href="../oops/WGLD/Meeting20181907.html?template=oopsmore&amp;param1=1.24&amp;param2=1.24">More ...</a></li>
-    </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);">
-  <p>Web</p>
-  <div id="flexMenuContent102" class="flexMenuContent">
-    <ul>
-      <li><a class="twikiLink" href="WebChanges.html">Recent Changes</a></li>
-      <li><a class="twikiLink" href="WebNotify.html">Notify Service</a></li>
-      <li><a class="twikiLink" href="WebNews.html">News</a></li>
-    </ul>
-    <ul>
-      <li><a class="twikiLink" href="WebIndex.html">Page Index</a></li>
-      <li><a class="twikiLink" href="WebSearch.html">Search</a></li>
-      </ul>
-      <ul>
-   <li><a href="../oops/WGLD/Meeting20181907.html?template=oopsmore&amp;param1=1.24&amp;param2=1.24">More ...</a></li>
-      </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);">
-  <p>Wiki</p>
-  <div id="flexMenuContent103" class="flexMenuContent">
-    <ul>
-      <li><a href="../view/TWiki/WebHome.html">About TWiki</a></li>
-      <li><a href="../view/TWiki/TextFormattingRules.html">Text Formatting</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/TWiki/TWikiRegistration.html">Registration</a></li>
-      <li><a href="../view/TWiki/ChangePassword.html">Change Password</a></li>
-      <li><a href="../view/TWiki/ResetPassword.html">Reset Password</a></li>
-    </ul>
-      <ul>
-   <li><a href="../view/Main/TWikiUsers.html">Users</a></li>
-   <li><a href="../view/Main/TWikiGroups.html">Groups</a></li>
-      </ul>
-  </div>
-</div></div>
-</div> <div class="twikiTopic">
+<div class="twikiTopic">
 <h1 class="twikiTopicTitle">Meeting 2018</h1>
 <div class="twikiWebTitle">Working Group on Language Design</div>
 <ul>
@@ -261,7 +155,7 @@ Visitors
 </li>
 <li> Matthias Hauswirth
 </li>
-<li> Éric Tanter
+<li> ï¿½ric Tanter
 </li>
 <li> Ronald Garcia
 </li>
@@ -269,7 +163,7 @@ Visitors
 </li>
 <li> Stefan Marr
 </li>
-<li> François Pottier
+<li> Franï¿½ois Pottier
 </li>
 <li> Elisa Gonzalez Boix
 </li>
@@ -402,12 +296,12 @@ the AST that restricts allowable programs (compared to standard Grace).
 As a consequence, the Grace language definition must include a definition of 
 an AST for Grace.
 <p />
-What are the requirements on such an AST?  Can we come up with “Design Principles” for
+What are the requirements on such an AST?  Can we come up with ï¿½Design Principlesï¿½ for
 an AST to guide us in its design?  How do we know when the AST is adequate?  Or when 
 it is overspecified?  What is an AST, anyway?
 <p />
 Now that there are multiple implementations of Grace, it is time to face these questions.   
-I don’t have many answers,  but hope that the combined expertise of the working group 
+I donï¿½t have many answers,  but hope that the combined expertise of the working group 
 will help us find some.
 <p />
 <p />
@@ -426,9 +320,9 @@ Any attempt to make programming more concrete must overcome two main obstacles: 
 <p />
 <p />
 <p />
-<h3><a name="Jan_Vitek_The_Beauty_and_the_Bea"> </a> Jan Vitek: The Beauty and the Beast — from Fortress to Julia </h3>
+<h3><a name="Jan_Vitek_The_Beauty_and_the_Bea"> </a> Jan Vitek: The Beauty and the Beast ï¿½ from Fortress to Julia </h3>
 <p />
-Take two languages, Julia and Fortress, designed to solve similar problems with similar mechanisms and compare the approaches that led to one to being adopted and the other discontinued. What lessons are there for language designers? Can the designs be reconciled? Can we somehow turn the beast that is into the beauty that could have been? This talk is a snapshot of our investigations into Julia with more open questions than definitive answers. Julia’ design is a pragmatic effort driven by use-cases and user feedback. In contrast, Fortress followed a  principled, formally grounded, approach that aimed for type soundness first. We will marvel at the efficacy of Julia's compiler -- a one-trick pony that works well in practice. We will inspect the multi-dispatch feature of Julia and puzzle at the subtype relation that is at its heart. The takeaway of the talk is a list of language features that are key to performance and usability.
+Take two languages, Julia and Fortress, designed to solve similar problems with similar mechanisms and compare the approaches that led to one to being adopted and the other discontinued. What lessons are there for language designers? Can the designs be reconciled? Can we somehow turn the beast that is into the beauty that could have been? This talk is a snapshot of our investigations into Julia with more open questions than definitive answers. Juliaï¿½ design is a pragmatic effort driven by use-cases and user feedback. In contrast, Fortress followed a  principled, formally grounded, approach that aimed for type soundness first. We will marvel at the efficacy of Julia's compiler -- a one-trick pony that works well in practice. We will inspect the multi-dispatch feature of Julia and puzzle at the subtype relation that is at its heart. The takeaway of the talk is a list of language features that are key to performance and usability.
 <p />
 <p />
 <p />
@@ -470,7 +364,7 @@ single-threaded execution performance.
 <p />
 <h3><a name="Matthias_Hauswirth_Misconception"> </a> Matthias Hauswirth: Misconceptions &amp; PL Design </h3>
 <p />
-Programming languages are conceptually dense constructions. Expressing a program in a given language requires an accurate understanding of the concepts of that language. A programmer’s misconceptions about a language eventually lead to incorrect programs.
+Programming languages are conceptually dense constructions. Expressing a program in a given language requires an accurate understanding of the concepts of that language. A programmerï¿½s misconceptions about a language eventually lead to incorrect programs.
 <p />
 In this talk I will give a brief introduction to an area of the learning sciences focusing on human conceptions, misconceptions, and conceptual change. I will then try to connect these ideas to programming language design. My goal with this talk is to trigger discussions on PL design and evaluation by stepping outside the normal PL design zone.
 <p />
@@ -509,12 +403,12 @@ This talk is based on joint work with Julian Jabs.
 <p />
 <h3><a name="Eric_Tanter_Gradual_Parametricit"> </a> Eric Tanter: Gradual Parametricity, Revisited </h3>
 <p />
-Bringing the benefits of gradual typing to a language with parametric polymorphism like System F, while preserving relational parametricity, has proven extremely challenging: first attempts were formulated almost a decade ago, and several recent developments have been published in the past year. On the one hand, the different forces at play have led researchers to propose language designs with varying goals and compromises, with sometimes surprising consequences. On the other hand, the complexity of the technical details has resulted in several important results to remain stated as conjectures. In this work, we first identify a crucial, yet ignored, property of a language with gradual parametricity, which turns out to be violated by all prior work. This observation suggests that existing cast calculi are not well suited for supporting a gradual version of System F. We then formulate clear design goals for a gradual language with explicit parametric polymorphism, GSF, and explore to which extent the Abstracting Gradual Typing methodology helps us derive such a language. GSF satisfies all the expected properties, save for one property—the dynamic gradual guarantee—which was left as conjecture in all prior work. Here, we prove that this property is simply incompatible with parametricity, unless one is willing to adjust accepted definitions. This situation, reminiscent of recent results on gradual noninterference, reinforces the view that new criteria might be needed to characterize the spectrum of type-based reasoning that gradual typing supports when applied to semantically-rich disciplines.
+Bringing the benefits of gradual typing to a language with parametric polymorphism like System F, while preserving relational parametricity, has proven extremely challenging: first attempts were formulated almost a decade ago, and several recent developments have been published in the past year. On the one hand, the different forces at play have led researchers to propose language designs with varying goals and compromises, with sometimes surprising consequences. On the other hand, the complexity of the technical details has resulted in several important results to remain stated as conjectures. In this work, we first identify a crucial, yet ignored, property of a language with gradual parametricity, which turns out to be violated by all prior work. This observation suggests that existing cast calculi are not well suited for supporting a gradual version of System F. We then formulate clear design goals for a gradual language with explicit parametric polymorphism, GSF, and explore to which extent the Abstracting Gradual Typing methodology helps us derive such a language. GSF satisfies all the expected properties, save for one propertyï¿½the dynamic gradual guaranteeï¿½which was left as conjecture in all prior work. Here, we prove that this property is simply incompatible with parametricity, unless one is willing to adjust accepted definitions. This situation, reminiscent of recent results on gradual noninterference, reinforces the view that new criteria might be needed to characterize the spectrum of type-based reasoning that gradual typing supports when applied to semantically-rich disciplines.
 <p />
 <p />
 <h3><a name="William_Cook_Rethinking_Excel_in"> </a> William Cook: Rethinking Excel in Enso </h3>
 <p />
-I’m trying to rethink Excel to eliminate repeated but slightly different equations,
+Iï¿½m trying to rethink Excel to eliminate repeated but slightly different equations,
 and have a secure approach to editing rows and columns, so that equations are
 always correctly defined. I have two sample Excel applications: one involving
 grades (normalizing them, curving them, combining them, etc), and one involving
@@ -538,7 +432,7 @@ I present work at Lark Systems, integrating together different types of thinking
 <p />
   Contrary to an ill-advised folklore myth, an LR(1) parser <strong>can</strong> produce good
   syntax error messages. In fact, an LR(1) parser generator can build a
-  collection of erroneous input sentences that covers every “error state”,
+  collection of erroneous input sentences that covers every ï¿½error stateï¿½,
   that is, every state of the LR automaton in which an error might be
   detected. This feature can be exploited by a grammar designer to examine
   each such state and either (a) propose a handwritten diagnostic message for
@@ -563,43 +457,15 @@ and the visitors talk:
 <p />
 <p />
 <p />
-Language runtimes notoriously involve frantic bit twiddling, very fine grained atomic operations, and a reliance on the specific behaviour of particular architectural targets. How do we know our code implements our intended memory model? How do we know our memory model maps, and maps efficiently, to the hardware memory model? What is “program order” when we need interleaved and independent “happens before” guarantees? What is the type of a range of memory reserved by the memory allocator before it has been committed, or after it has been freed by the language? Perhaps we need a low-level systems language for writing runtimes that treats “happens before” as a core building block.
+Language runtimes notoriously involve frantic bit twiddling, very fine grained atomic operations, and a reliance on the specific behaviour of particular architectural targets. How do we know our code implements our intended memory model? How do we know our memory model maps, and maps efficiently, to the hardware memory model? What is ï¿½program orderï¿½ when we need interleaved and independent ï¿½happens beforeï¿½ guarantees? What is the type of a range of memory reserved by the memory allocator before it has been committed, or after it has been freed by the language? Perhaps we need a low-level systems language for writing runtimes that treats ï¿½happens beforeï¿½ as a core building block.
 <p />
 <h3><a name="Jan_Willem_Maessen_Confessions_o"> </a> Jan-Willem Maessen: Confessions of a Reluctant Imperative Programmer </h3>
 <p />
-I consider myself a functional programmer who happens to do a lot of systems programming in non-functional languages.  But the imperative style of control flow – loops with break and continue, functions with intermediate return, local variables that can be re-bound – is in many cases easier for me as a programmer to read and write than the equivalent code in a typical functional language.  Why is this?  And when does it break down?  I'll end with some questions about how we might do better.
+I consider myself a functional programmer who happens to do a lot of systems programming in non-functional languages.  But the imperative style of control flow ï¿½ loops with break and continue, functions with intermediate return, local variables that can be re-bound ï¿½ is in many cases easier for me as a programmer to read and write than the equivalent code in a typical functional language.  Why is this?  And when does it break down?  I'll end with some questions about how we might do better.
 <p />
 <p />
 <h3><a name="Tom_van_Cutsem_Control_flow_good"> </a> Tom van Cutsem: Control flow goodness in modern <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">JavaScript</font><a href="https://program-transformation.org/edit/WGLD/JavaScript?topicparent=WGLD.Meeting2018"><sup>?</sup></a></span> </h3>
 <p />
-A whirlwind tour of <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">JavaScript</font><a href="https://program-transformation.org/edit/WGLD/JavaScript?topicparent=WGLD.Meeting2018"><sup>?</sup></a></span>’s most recently added control flow constructs: promises, iterators, generators and async functions.
+A whirlwind tour of <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">JavaScript</font><a href="https://program-transformation.org/edit/WGLD/JavaScript?topicparent=WGLD.Meeting2018"><sup>?</sup></a></span>ï¿½s most recently added control flow constructs: promises, iterators, generators and async functions.
 <p />
-<br class="twikiClear" />
-<a name="TopicEnd"></a>
 </div>
-<!---->
-<!---->
-<div class="twikiAttachments"><p></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr><th class="twikiFirstCol" bgcolor="#d9e3ea"><a href="Meeting2018661c.html?sortcol=0&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> I</font></a> </th><th bgcolor="#d9e3ea"><font color="#005aa0"> <a class="twikiLink" href="../TWiki/FileAttachment.html">Attachment</a></font> <a href="Meeting201890c9.html?sortcol=1&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><img src="../pub/TWiki/TablePlugin/diamond.gif" border="0" alt="sort" /></a></th><th bgcolor="#d9e3ea"><a href="Meeting20180c2d.html?sortcol=2&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Action</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting201843a5.html?sortcol=3&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Size</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2018dfac.html?sortcol=4&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Date</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2018b447.html?sortcol=5&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Who</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2018a945.html?sortcol=6&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Comment</font></a> </th></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/Directions_to_Nokia_Bell_Labs_Antwerp.pdf">Directions_to_Nokia_Bell_Labs_Antwerp.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting20187d14.html?filename=Directions_to_Nokia_Bell_Labs_Antwerp.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 723.2&nbsp;K </td><td bgcolor="#f6f6f6"> 04 Jan 2018 - 12:55 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/TomVanCutsem.html">TomVanCutsem</a> </td><td bgcolor="#f6f6f6"> Directions to Nokia Bell Labs Antwerp </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/bmp.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2018/IMG_0342.jpg">IMG_0342.jpeg</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting20184aac.html?filename=IMG_0342.jpeg&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 1949.1&nbsp;K </td><td bgcolor="#ececec"> 20 May 2018 - 14:00 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/andrew-black-wgld18.pdf">andrew-black-wgld18.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting2018b9c8.html?filename=andrew-black-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 576.6&nbsp;K </td><td bgcolor="#f6f6f6"> 24 May 2018 - 21:42 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> Design Principles for the Grace AST </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2018/eelco-visser-wgld18.pdf">eelco-visser-wgld18.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting20185d3d.html?filename=eelco-visser-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 385.0&nbsp;K </td><td bgcolor="#ececec"> 24 May 2018 - 21:42 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> The Design of the Syntax Definition Formalism SDF3 in Propositions </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/francois-pottier-wgld18.pdf">francois-pottier-wgld18.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting2018c029.html?filename=francois-pottier-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 3138.1&nbsp;K </td><td bgcolor="#f6f6f6"> 24 May 2018 - 21:43 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> Visitors Unchained Using visitors to traverse abstract syntax with binding </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2018/james-noble-wgld18.pdf">james-noble-wgld18.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting2018a1f1.html?filename=james-noble-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 3002.1&nbsp;K </td><td bgcolor="#ececec"> 24 May 2018 - 21:44 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/jan-vitek-wgld18.pdf">jan-vitek-wgld18.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting20181bb4.html?filename=jan-vitek-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 11271.0&nbsp;K </td><td bgcolor="#f6f6f6"> 24 May 2018 - 21:44 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> The Beauty and the Beast </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2018/markus-voelter-wgld18.pdf">markus-voelter-wgld18.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting2018410b.html?filename=markus-voelter-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 1212.4&nbsp;K </td><td bgcolor="#ececec"> 24 May 2018 - 21:45 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> A Spreadsheet Extension for <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">KernelF</font><a href="https://program-transformation.org/edit/WGLD/KernelF?topicparent=WGLD.Meeting2018"><sup>?</sup></a></span> </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/matthias-hauswirth-wgld18.pdf">matthias-hauswirth-wgld18.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting20188534.html?filename=matthias-hauswirth-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 1547.2&nbsp;K </td><td bgcolor="#f6f6f6"> 24 May 2018 - 21:45 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> Misconceptions &amp; PL Design </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2018/ronald-garcia-wgld18.pdf">ronald-garcia-wgld18.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting2018aa80.html?filename=ronald-garcia-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 2973.8&nbsp;K </td><td bgcolor="#ececec"> 24 May 2018 - 21:46 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> Type-Driven Gradual Security Typing </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/else.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/sylvan-clebsch-wgld18.pptx">sylvan-clebsch-wgld18.pptx</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting2018edfd.html?filename=sylvan-clebsch-wgld18.pptx&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 603.7&nbsp;K </td><td bgcolor="#f6f6f6"> 24 May 2018 - 21:46 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> Language Runtimes for Parallel Programming: Weak Memory and Program Order </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2018/tijs-van-der-storm-wgld18.pdf">tijs-van-der-storm-wgld18.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting20184da4.html?filename=tijs-van-der-storm-wgld18.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 646.6&nbsp;K </td><td bgcolor="#ececec"> 24 May 2018 - 21:47 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> Immediate mode with immutable data </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2018/vancutsem_js_cflow_wgld2018.pdf">vancutsem_js_cflow_wgld2018.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting2018dd99.html?filename=vancutsem_js_cflow_wgld2018.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 670.5&nbsp;K </td><td bgcolor="#f6f6f6"> 24 May 2018 - 21:47 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> Control Flow Goodness in Modern <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">JavaScript</font><a href="https://program-transformation.org/edit/WGLD/JavaScript?topicparent=WGLD.Meeting2018"><sup>?</sup></a></span> </td></tr>
-</table>
-</div>
-<p />
-<div class="twikiTopicInfo twikiRevInfo twikiGrayText twikiMoved"></div>
-</div></div>
-</div></body>
-<!-- Mirrored from program-transformation.org/WGLD/Meeting2018 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:28:20 GMT -->
-</html>

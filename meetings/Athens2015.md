@@ -1,110 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-
-<!-- Mirrored from program-transformation.org/WGLD/Meeting2015 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:29:30 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" /><!-- /Added by HTTrack -->
-<head>
-  <title>   WGLD / Meeting 2015</title>
-  <link rel="alternate" href="../view/WGLD/WebRssf1ff?skin=rss" type="application/rss+xml" title="Recent Changes" />
-  <link rel="shortcut icon" href="http://www.cs.uu.nl/favicon.ico" type="image/x-icon" />
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  
-  <style type="text/css" media="all">
-	 @import url("../pub/TWiki/FlexPatternSkin/layout.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/style.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/flexmenu.css");
-	 .twikiToc li {
-		list-style-image:url(../pub/TWiki/FlexPatternSkin/i_arrow_down.gif);
-	 }
-  </style>
-  <style type="text/css" media="all"></style>
-  <script type="text/javascript">
-  <!-- HIDE
-	function initPage() { }
-  -->
-  </script>
-  <script type="text/javascript" src="../pub/TWiki/FlexPatternSkin/flexmenu.js"></script>
-
-</head>
-<body class="twikiViewPage" onload="initPage()"><div class="fullPage">
-<div class="twikiMiddleContainer"><div class="twikiLeftBar">
-  <div class="twikiLeftBarContents">
-    <center><font size="+1"><b><a href="../view/WGLD/WebHome.html" style="color:black">WGLD</a></b></font></center>
-<hr color="black" size="1" noshade>
-<ul>
-<li> <a class="twikiLink" href="WebHome.html">Home</a>
-</li>
-<li> <a class="twikiLink" href="Proposal.html">IFIP Proposal</a>
-</li>
-<li> <a class="twikiLink" href="GroupMembers.html">Members</a>
-</li>
-<li> <a class="twikiLink" href="Meetings.html">Meetings</a>
-</li>
-</ul>
-<p />
-<br>
-<p />
-  </div>
-</div><div class="twikiMain"><div class="toolBar">
-<div class="flexMenuBar"><div class="flexMenu" onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);">
-  <p>Page</p>
-  <div id="flexMenuContent100" class="flexMenuContent">
-    <ul>
-      <li><a href="https://program-transformation.org/edit/WGLD/Meeting2015?t=1595608575">Edit Page</a></li>
-      <li><a href="https://program-transformation.org/rename/WGLD/Meeting2015">Rename Page</a></li>
-      <li><a href="../attach/WGLD/Meeting2015.html">Attach File</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/WGLD/Meeting2015ff14.html?skin=print.pattern">Printable</a></li>
-      <li><a href="../view/WGLD/Meeting2015b7e4?skin=text&amp;raw=on&amp;contenttype=text/plain">Wiki Source</a></li>
-    </ul>
-    <ul>
-       <li class="revision"><a href="../view/WGLD/Meeting201501e7.html?rev=1.17">Rev 17</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2015?rev1=1.17&amp;rev2=1.16">(diff 16)</a></li> <li class="revision"><a href="../view/WGLD/Meeting2015eb1e.html?rev=1.16">Rev 16</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2015?rev1=1.16&amp;rev2=1.15">(diff 15)</a></li> <li class="revision"><a href="../view/WGLD/Meeting2015c80f.html?rev=1.15">Rev 15</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2015?rev1=1.15&amp;rev2=1.14">(diff 14)</a></li>
-      <li><a href="https://program-transformation.org/rdiff/WGLD/Meeting2015">Total History</a></li>
-    </ul>
-    <ul>
-      <li><a href="../oops/WGLD/Meeting2015e5b4.html?template=oopsmore&amp;param1=1.17&amp;param2=1.17">More ...</a></li>
-    </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);">
-  <p>Web</p>
-  <div id="flexMenuContent102" class="flexMenuContent">
-    <ul>
-      <li><a class="twikiLink" href="WebChanges.html">Recent Changes</a></li>
-      <li><a class="twikiLink" href="WebNotify.html">Notify Service</a></li>
-      <li><a class="twikiLink" href="WebNews.html">News</a></li>
-    </ul>
-    <ul>
-      <li><a class="twikiLink" href="WebIndex.html">Page Index</a></li>
-      <li><a class="twikiLink" href="WebSearch.html">Search</a></li>
-      </ul>
-      <ul>
-   <li><a href="../oops/WGLD/Meeting2015e5b4.html?template=oopsmore&amp;param1=1.17&amp;param2=1.17">More ...</a></li>
-      </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);">
-  <p>Wiki</p>
-  <div id="flexMenuContent103" class="flexMenuContent">
-    <ul>
-      <li><a href="../view/TWiki/WebHome.html">About TWiki</a></li>
-      <li><a href="../view/TWiki/TextFormattingRules.html">Text Formatting</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/TWiki/TWikiRegistration.html">Registration</a></li>
-      <li><a href="../view/TWiki/ChangePassword.html">Change Password</a></li>
-      <li><a href="../view/TWiki/ResetPassword.html">Reset Password</a></li>
-    </ul>
-      <ul>
-   <li><a href="../view/Main/TWikiUsers.html">Users</a></li>
-   <li><a href="../view/Main/TWikiGroups.html">Groups</a></li>
-      </ul>
-  </div>
-</div></div>
-</div> <div class="twikiTopic">
+<div class="twikiTopic">
 <h1 class="twikiTopicTitle">Meeting 2015</h1>
 <div class="twikiWebTitle">Working Group on Language Design</div>
 <ul>
@@ -221,7 +115,7 @@ Object-oriented languages are plagued by poor support for type inference given d
 I'll introduce a new library for the Ur/Web programming language that I talked about at past meetings of this group.  Ur/Web has some novel features that support unusual and effective styles of encapsulation; I'll review those a bit.  The purpose of the talk, which will focus heavily on code demos, is the new library, the Ur/Web People Organizer, which is based on a component architecture that allows very rapid assembly of applications for running meetings, etc.  A growing set of components encapsulate such ideas as scheduling meetings between two groups of people, taking RSVPs for different subevents, etc.  Each component has a rich static type, expressing its polymorphic dependencies on the schemas of selected SQL database tables.
 <p />
 <p />
-<h3><a name="Markus_V_lter_Experiences_from_b"> </a> Markus Völter: Experiences from building mbeddr </h3>
+<h3><a name="Markus_V_lter_Experiences_from_b"> </a> Markus Vï¿½lter: Experiences from building mbeddr </h3>
 <p />
 Over the last four years a team at fortiss and itemis have built mbeddr,
 an extensible set of integrated languages for embedded software
@@ -281,7 +175,7 @@ expander.
 <p />
 Streaming libraries have become ubiquitous in object-oriented languages, with recent offerings in Java, C#, and Scala. All such libraries, however, suffer in terms of extensibility: there is no way to change the semantics of a streaming pipeline (e.g., to fuse filter operators, to perform computations lazily, to log operations) without changes to the library code. Furthermore, in some languages it is not even possible to add new operators (e.g., a zip operator, in addition to the standard map, filter, etc.) without changing the library.
 <p />
-We address such extensibility shortcomings with a new design for streaming libraries, based on treating the library as a domain-specific language interpreter. The architecture underlying this design borrows heavily from Oliveira and Cook’s object algebra solution to the expression problem, extended with a design that exposes the push/pull character of the iteration, and an encoding of higher-kinded polymorphism. We apply our design to Java and show that the addition of full extensibility is accompanied by high performance, matching or exceeding that of the original, highly-optimized Java streams library.  
+We address such extensibility shortcomings with a new design for streaming libraries, based on treating the library as a domain-specific language interpreter. The architecture underlying this design borrows heavily from Oliveira and Cookï¿½s object algebra solution to the expression problem, extended with a design that exposes the push/pull character of the iteration, and an encoding of higher-kinded polymorphism. We apply our design to Java and show that the addition of full extensibility is accompanied by high performance, matching or exceeding that of the original, highly-optimized Java streams library.  
 <p />
 <p />
 <p />
@@ -329,12 +223,12 @@ programming which generalizes the familiar theory of classical
 language which supports negation-as-failure, and present its
 semantics.
 <p />
-<h3><a name="Francisco_Sant_anna_Structured_S"> </a> Francisco Sant'anna: Structured Synchronous Reactive Programming with Céu </h3>
+<h3><a name="Francisco_Sant_anna_Structured_S"> </a> Francisco Sant'anna: Structured Synchronous Reactive Programming with Cï¿½u </h3>
 <p />
 Structured synchronous reactive programming (SSRP) augments classical
 structured programming (SP) with continuous interaction with the environment.
 We advocate SSRP as viable in multiple domains of reactive applications and
-propose a new abstraction mechanism for the synchronous language Céu:
+propose a new abstraction mechanism for the synchronous language Cï¿½u:
 Organisms extend objects with an execution body that composes multiple
 lines of execution to react to the environment independently.
 Compositions bring structured reasoning to concurrency and can better describe
@@ -370,7 +264,7 @@ A value with a uniqueness type can be used at most once in a program. This means
 <p />
 The language Pony was developed with the aim to support easy concurrent programming, fast implementations, and data-race freedom.
 <p />
-In terms of case studies and benchmarks, we argue that indeed, Pony programs are fast. In terms of our and our collaborators’ programming experience, we argue that Pony is easy to learn and program in. We then outline some salient features of the Pony type system, and the garbage collection system.  
+In terms of case studies and benchmarks, we argue that indeed, Pony programs are fast. In terms of our and our collaboratorsï¿½ programming experience, we argue that Pony is easy to learn and program in. We then outline some salient features of the Pony type system, and the garbage collection system.  
 <p />
 <p />
 <p />
@@ -391,7 +285,7 @@ After lunch we leave for an afternoon at the Acropolis
 <p />
 There is a natural affinity between object-based encapsulation and capability-based security.  The Newspeak programming language capitalizes on this affinity.  However, until recently Newspeak did not enforce access control. This is changing, and provides a clean basis for building a secure, object-capability based system.
 <p />
-I’ll discuss the Newspeak access control semantics and our ongoing experience in implementing and using them.
+Iï¿½ll discuss the Newspeak access control semantics and our ongoing experience in implementing and using them.
 <p />
 <p />
 <h3><a name="Roly_Perera_Demand_indexed_compu"> </a> Roly Perera: Demand-indexed computation </h3>
@@ -450,7 +344,7 @@ parties, linked together dynamically in unforeseen
 constellations. Code needs to live up to strict security
 specifications: it has to ensure the correct functioning of its
 objects when they collaborate with external objects of unknown
-provenance, and it has to protect its objects’ integrity even when
+provenance, and it has to protect its objectsï¿½ integrity even when
 external objects are malicious.
 <p />
 In this talk we propose specification concepts to model risk and trust
@@ -462,20 +356,5 @@ We'll argue informally that the code satisfies its specification
 <h3><a name="Stefan_Hanenberg_Discussion_on_E"> </a> Stefan Hanenberg: Discussion on Empirical Methods </h3>
 <p />
 "How do different empirical methods interact? And why do I (still) vote for ignoring qualitative research?"
-<br class="twikiClear" />
-<a name="TopicEnd"></a>
+
 </div>
-<!---->
-<!---->
-<div class="twikiAttachments"><p></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr><th class="twikiFirstCol" bgcolor="#d9e3ea"><a href="Meeting2015661c.html?sortcol=0&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> I</font></a> </th><th bgcolor="#d9e3ea"><font color="#005aa0"> <a class="twikiLink" href="../TWiki/FileAttachment.html">Attachment</a></font> <a href="Meeting201590c9.html?sortcol=1&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><img src="../pub/TWiki/TablePlugin/diamond.gif" border="0" alt="sort" /></a></th><th bgcolor="#d9e3ea"><a href="Meeting20150c2d.html?sortcol=2&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Action</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting201543a5.html?sortcol=3&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Size</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2015dfac.html?sortcol=4&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Date</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2015b447.html?sortcol=5&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Who</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2015a945.html?sortcol=6&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Comment</font></a> </th></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/bmp.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2015/hotel-map2.jpg">hotel-map2.jpg</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting20158402.html?filename=hotel-map2.jpg&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 289.2&nbsp;K </td><td bgcolor="#f6f6f6"> 08 Nov 2014 - 13:05 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-</table>
-</div>
-<p />
-<div class="twikiTopicInfo twikiRevInfo twikiGrayText twikiMoved"></div>
-</div></div>
-</div></body>
-<!-- Mirrored from program-transformation.org/WGLD/Meeting2015 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:29:46 GMT -->
-</html>

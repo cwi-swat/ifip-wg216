@@ -1,110 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-
-<!-- Mirrored from program-transformation.org/WGLD/Meeting2016 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:29:10 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" /><!-- /Added by HTTrack -->
-<head>
-  <title>   WGLD / Meeting 2016</title>
-  <link rel="alternate" href="../view/WGLD/WebRssf1ff?skin=rss" type="application/rss+xml" title="Recent Changes" />
-  <link rel="shortcut icon" href="http://www.cs.uu.nl/favicon.ico" type="image/x-icon" />
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  
-  <style type="text/css" media="all">
-	 @import url("../pub/TWiki/FlexPatternSkin/layout.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/style.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/flexmenu.css");
-	 .twikiToc li {
-		list-style-image:url(../pub/TWiki/FlexPatternSkin/i_arrow_down.gif);
-	 }
-  </style>
-  <style type="text/css" media="all"></style>
-  <script type="text/javascript">
-  <!-- HIDE
-	function initPage() { }
-  -->
-  </script>
-  <script type="text/javascript" src="../pub/TWiki/FlexPatternSkin/flexmenu.js"></script>
-
-</head>
-<body class="twikiViewPage" onload="initPage()"><div class="fullPage">
-<div class="twikiMiddleContainer"><div class="twikiLeftBar">
-  <div class="twikiLeftBarContents">
-    <center><font size="+1"><b><a href="../view/WGLD/WebHome.html" style="color:black">WGLD</a></b></font></center>
-<hr color="black" size="1" noshade>
-<ul>
-<li> <a class="twikiLink" href="WebHome.html">Home</a>
-</li>
-<li> <a class="twikiLink" href="Proposal.html">IFIP Proposal</a>
-</li>
-<li> <a class="twikiLink" href="GroupMembers.html">Members</a>
-</li>
-<li> <a class="twikiLink" href="Meetings.html">Meetings</a>
-</li>
-</ul>
-<p />
-<br>
-<p />
-  </div>
-</div><div class="twikiMain"><div class="toolBar">
-<div class="flexMenuBar"><div class="flexMenu" onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);">
-  <p>Page</p>
-  <div id="flexMenuContent100" class="flexMenuContent">
-    <ul>
-      <li><a href="https://program-transformation.org/edit/WGLD/Meeting2016?t=1595608574">Edit Page</a></li>
-      <li><a href="https://program-transformation.org/rename/WGLD/Meeting2016">Rename Page</a></li>
-      <li><a href="../attach/WGLD/Meeting2016.html">Attach File</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/WGLD/Meeting2016ff14.html?skin=print.pattern">Printable</a></li>
-      <li><a href="../view/WGLD/Meeting2016b7e4?skin=text&amp;raw=on&amp;contenttype=text/plain">Wiki Source</a></li>
-    </ul>
-    <ul>
-       <li class="revision"><a href="../view/WGLD/Meeting2016301d.html?rev=1.11">Rev 11</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2016?rev1=1.11&amp;rev2=1.10">(diff 10)</a></li> <li class="revision"><a href="../view/WGLD/Meeting2016952a.html?rev=1.10">Rev 10</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2016?rev1=1.10&amp;rev2=1.9">(diff 9)</a></li> <li class="revision"><a href="../view/WGLD/Meeting201615db.html?rev=1.9">Rev 9</a> <a href="https://program-transformation.org/rdiff/WGLD/Meeting2016?rev1=1.9&amp;rev2=1.8">(diff 8)</a></li>
-      <li><a href="https://program-transformation.org/rdiff/WGLD/Meeting2016">Total History</a></li>
-    </ul>
-    <ul>
-      <li><a href="../oops/WGLD/Meeting201653b4.html?template=oopsmore&amp;param1=1.11&amp;param2=1.11">More ...</a></li>
-    </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);">
-  <p>Web</p>
-  <div id="flexMenuContent102" class="flexMenuContent">
-    <ul>
-      <li><a class="twikiLink" href="WebChanges.html">Recent Changes</a></li>
-      <li><a class="twikiLink" href="WebNotify.html">Notify Service</a></li>
-      <li><a class="twikiLink" href="WebNews.html">News</a></li>
-    </ul>
-    <ul>
-      <li><a class="twikiLink" href="WebIndex.html">Page Index</a></li>
-      <li><a class="twikiLink" href="WebSearch.html">Search</a></li>
-      </ul>
-      <ul>
-   <li><a href="../oops/WGLD/Meeting201653b4.html?template=oopsmore&amp;param1=1.11&amp;param2=1.11">More ...</a></li>
-      </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);">
-  <p>Wiki</p>
-  <div id="flexMenuContent103" class="flexMenuContent">
-    <ul>
-      <li><a href="../view/TWiki/WebHome.html">About TWiki</a></li>
-      <li><a href="../view/TWiki/TextFormattingRules.html">Text Formatting</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/TWiki/TWikiRegistration.html">Registration</a></li>
-      <li><a href="../view/TWiki/ChangePassword.html">Change Password</a></li>
-      <li><a href="../view/TWiki/ResetPassword.html">Reset Password</a></li>
-    </ul>
-      <ul>
-   <li><a href="../view/Main/TWikiUsers.html">Users</a></li>
-   <li><a href="../view/Main/TWikiGroups.html">Groups</a></li>
-      </ul>
-  </div>
-</div></div>
-</div> <div class="twikiTopic">
+<div class="twikiTopic">
 <h1 class="twikiTopicTitle">Meeting 2016</h1>
 <div class="twikiWebTitle">Working Group on Language Design</div>
 <ul>
@@ -320,7 +214,7 @@ Visitors
 <p />
 The pedagogical programming language Grace was designed for novices to programming.  This fall was the second time we have used Grace for an intro course at Pomona College (Andrew Black has also used it with some slightly different courses at PSU).
 <p />
-In this talk I’ll give a quick outline of some of the features of the Grace design that make it especially helpful in an introductory course.  I’ll then talk about the head-to-head comparison we ran this fall with the Grace version against a Java version of the same course with parallel texts, assignments, and exams.  While we have not yet run a careful statistical analysis of the detailed results, early indications are that Grace is a considerable help to novices in learning.
+In this talk Iï¿½ll give a quick outline of some of the features of the Grace design that make it especially helpful in an introductory course.  Iï¿½ll then talk about the head-to-head comparison we ran this fall with the Grace version against a Java version of the same course with parallel texts, assignments, and exams.  While we have not yet run a careful statistical analysis of the detailed results, early indications are that Grace is a considerable help to novices in learning.
 <p />
 <a href="../pub/WGLD/Meeting2016/PLDesign1-16TeachGrace.pdf" target="_top">slides</a>
 <p />
@@ -412,7 +306,7 @@ I've been working in large-scale, decentralized simulations of urban areas [1], 
 <p />
 <h5><a name="Sean_McDirmid_The_past_present_a"> </a> Sean <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">McDirmid</font><a href="https://program-transformation.org/edit/WGLD/McDirmid?topicparent=WGLD.Meeting2016"><sup>?</sup></a></span>: The past, present, and future of live programming </h5>
 <p />
-This talk will present the promise of live programming as I currently see it. Narrowly defined, live programming has been about providing feedback about how a program executes while it is being written by the programmer, combining the phases of debugging and editing for a more fluid feedback loop. However, as Chris Hancock and Bret Victor have pointed out, this really isn’t good enough to move the needle on better programmer experiences.  Through multiple demos, I will show what works and what hasn’t worked, and more importantly provide context on why these results occurred. I will then present some future directions for this field. 
+This talk will present the promise of live programming as I currently see it. Narrowly defined, live programming has been about providing feedback about how a program executes while it is being written by the programmer, combining the phases of debugging and editing for a more fluid feedback loop. However, as Chris Hancock and Bret Victor have pointed out, this really isnï¿½t good enough to move the needle on better programmer experiences.  Through multiple demos, I will show what works and what hasnï¿½t worked, and more importantly provide context on why these results occurred. I will then present some future directions for this field. 
 <p />
 <p />
 <h5><a name="Andrew_Black_The_Essence_of_Inhe"> </a> Andrew Black: The Essence of Inheritance </h5>
@@ -421,7 +315,7 @@ Programming languages serve a dual purpose: to communicate programs to computers
 <p />
 <h5><a name="Todd_Millstein_Why_Do_Language_D"> </a> Todd Millstein: Why Do Language Designers Tolerate Weak Memory Consistency Models? </h5>
 <p />
-Almost all languages today are memory safe, thereby providing simple and strong guarantees to all programs, buggy or otherwise. Yet the concurrency semantics of these “safe” languages causes similar problems as arise in memory-unsafe languages: small program errors can expose implementation details, violate fundamental language abstractions, and compromise program safety. Why do language designers tolerate this situation? In this talk I’ll overview the state of concurrency semantics as it exists today and argue that safe languages must support sequential consistency (i.e., the interleaving semantics of threads). Along the way I’ll also debunk a few persistent myths. 
+Almost all languages today are memory safe, thereby providing simple and strong guarantees to all programs, buggy or otherwise. Yet the concurrency semantics of these ï¿½safeï¿½ languages causes similar problems as arise in memory-unsafe languages: small program errors can expose implementation details, violate fundamental language abstractions, and compromise program safety. Why do language designers tolerate this situation? In this talk Iï¿½ll overview the state of concurrency semantics as it exists today and argue that safe languages must support sequential consistency (i.e., the interleaving semantics of threads). Along the way Iï¿½ll also debunk a few persistent myths. 
 <p />
 <p />
 <h5><a name="Michael_Greenberg_The_POSIX_shel"> </a> Michael Greenberg: The POSIX shell as a programming language </h5>
@@ -446,7 +340,7 @@ Many important architectural properties of software depend on how resources such
 <p />
 <h5><a name="Alessandro_Warth_Growing_Languag"> </a> Alessandro Warth: Growing Language Designers </h5>
 <p />
-Despite the high caliber of our students, the recurring Programming Language Design Seminar at UCLA did not consistently generate the kind of output we had hoped for. One issue was that students lacked the PL prototyping chops required to do meaningful work in such a short time — 10 weeks fly by when you’re having fun. Last year we created a new class to address this problem. Thanks in part to a novel framework that aims to minimize unnecessary friction and give students “instant gratification” when possible, the new class was a great success and turned out to be much more popular than we anticipated. (Joint work with Todd Millstein and Alan Kay.)
+Despite the high caliber of our students, the recurring Programming Language Design Seminar at UCLA did not consistently generate the kind of output we had hoped for. One issue was that students lacked the PL prototyping chops required to do meaningful work in such a short time ï¿½ 10 weeks fly by when youï¿½re having fun. Last year we created a new class to address this problem. Thanks in part to a novel framework that aims to minimize unnecessary friction and give students ï¿½instant gratificationï¿½ when possible, the new class was a great success and turned out to be much more popular than we anticipated. (Joint work with Todd Millstein and Alan Kay.)
 <p />
 <p />
 <h4><a name="Eelco_Visser_The_Name_Binding_Ga"> </a> Eelco Visser: The Name Binding Game </h4>
@@ -460,28 +354,10 @@ The last two release of Elm (0.15.1 and 0.16) focused primarily on producing exc
 <p />
 <h4><a name="Heather_Miller_Distributed_progr"> </a> Heather Miller: Distributed programming via safe closure passing </h4>
 <p />
-Scala is a popular implementation language of big data frameworks. Leading frameworks like Spark and Kafka have nodded their hats to Scala, noting that some of their ability to innovate were provided by aspects of Scala’s mixed object-functional design, such as its support for first-class functions. However, problems abound; function closures in Scala weren’t designed with the idea of them being serialized and sent over the wire in mind, resulting in end-user headaches across frameworks. We proposed a solution to the closure serialization problem with spores, a refinement to functions in Scala that make closures more reliable to serialize. I'll discuss ongoing work on a programming model we have built atop of spores which aims to generalize models like <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">MapReduce</font><a href="https://program-transformation.org/edit/WGLD/MapReduce?topicparent=WGLD.Meeting2016"><sup>?</sup></a></span> by enabling a more principled way to move "functionality" to immutable data spread across a network.
+Scala is a popular implementation language of big data frameworks. Leading frameworks like Spark and Kafka have nodded their hats to Scala, noting that some of their ability to innovate were provided by aspects of Scalaï¿½s mixed object-functional design, such as its support for first-class functions. However, problems abound; function closures in Scala werenï¿½t designed with the idea of them being serialized and sent over the wire in mind, resulting in end-user headaches across frameworks. We proposed a solution to the closure serialization problem with spores, a refinement to functions in Scala that make closures more reliable to serialize. I'll discuss ongoing work on a programming model we have built atop of spores which aims to generalize models like <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">MapReduce</font><a href="https://program-transformation.org/edit/WGLD/MapReduce?topicparent=WGLD.Meeting2016"><sup>?</sup></a></span> by enabling a more principled way to move "functionality" to immutable data spread across a network.
 <p />
 <h4><a name="Jan_Willem_Maessen"> </a><a name="Jan_Willem_Maessen_"> </a> Jan-Willem Maessen:  </h4>
 <p />
 <a href="https://docs.google.com/presentation/d/1bE5RJZTH1cEYxWOuqulXiv31URN6MI51fZsRNMvWDC4/edit#slide=id.p" target="_top">slides</a>
 <p />
-<br class="twikiClear" />
-<a name="TopicEnd"></a>
 </div>
-<!---->
-<!---->
-<div class="twikiAttachments"><p></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr><th class="twikiFirstCol" bgcolor="#d9e3ea"><a href="Meeting2016661c.html?sortcol=0&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> I</font></a> </th><th bgcolor="#d9e3ea"><font color="#005aa0"> <a class="twikiLink" href="../TWiki/FileAttachment.html">Attachment</a></font> <a href="Meeting201690c9.html?sortcol=1&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><img src="../pub/TWiki/TablePlugin/diamond.gif" border="0" alt="sort" /></a></th><th bgcolor="#d9e3ea"><a href="Meeting20160c2d.html?sortcol=2&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Action</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting201643a5.html?sortcol=3&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Size</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2016dfac.html?sortcol=4&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Date</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2016b447.html?sortcol=5&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Who</font></a> </th><th bgcolor="#d9e3ea"><a href="Meeting2016a945.html?sortcol=6&amp;table=1&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Comment</font></a> </th></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2016/PLDesign1-16TeachGrace.pdf">PLDesign1-16TeachGrace.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting20165852.html?filename=PLDesign1-16TeachGrace.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 7540.0&nbsp;K </td><td bgcolor="#f6f6f6"> 05 Feb 2016 - 01:56 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Meeting2016/wgld-ub.pdf">wgld-ub.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Meeting2016bde1.html?filename=wgld-ub.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 567.3&nbsp;K </td><td bgcolor="#ececec"> 05 Feb 2016 - 02:17 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Meeting2016/arch-control-pldesign-jan2016.pdf">arch-control-pldesign-jan2016.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Meeting2016a69c.html?filename=arch-control-pldesign-jan2016.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 402.1&nbsp;K </td><td bgcolor="#f6f6f6"> 02 Mar 2016 - 18:10 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/EelcoVisser.html">EelcoVisser</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-</table>
-</div>
-<p />
-<div class="twikiTopicInfo twikiRevInfo twikiGrayText twikiMoved"></div>
-</div></div>
-</div></body>
-<!-- Mirrored from program-transformation.org/WGLD/Meeting2016 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:29:30 GMT -->
-</html>

@@ -1,110 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-
-<!-- Mirrored from program-transformation.org/WGLD/Austin2012 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:30:35 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" /><!-- /Added by HTTrack -->
-<head>
-  <title>   WGLD / Austin 2012</title>
-  <link rel="alternate" href="../view/WGLD/WebRssf1ff?skin=rss" type="application/rss+xml" title="Recent Changes" />
-  <link rel="shortcut icon" href="http://www.cs.uu.nl/favicon.ico" type="image/x-icon" />
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  
-  <style type="text/css" media="all">
-	 @import url("../pub/TWiki/FlexPatternSkin/layout.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/style.css");
-	 @import url("../pub/TWiki/FlexPatternSkin/flexmenu.css");
-	 .twikiToc li {
-		list-style-image:url(../pub/TWiki/FlexPatternSkin/i_arrow_down.gif);
-	 }
-  </style>
-  <style type="text/css" media="all"></style>
-  <script type="text/javascript">
-  <!-- HIDE
-	function initPage() { }
-  -->
-  </script>
-  <script type="text/javascript" src="../pub/TWiki/FlexPatternSkin/flexmenu.js"></script>
-
-</head>
-<body class="twikiViewPage" onload="initPage()"><div class="fullPage">
-<div class="twikiMiddleContainer"><div class="twikiLeftBar">
-  <div class="twikiLeftBarContents">
-    <center><font size="+1"><b><a href="../view/WGLD/WebHome.html" style="color:black">WGLD</a></b></font></center>
-<hr color="black" size="1" noshade>
-<ul>
-<li> <a class="twikiLink" href="WebHome.html">Home</a>
-</li>
-<li> <a class="twikiLink" href="Proposal.html">IFIP Proposal</a>
-</li>
-<li> <a class="twikiLink" href="GroupMembers.html">Members</a>
-</li>
-<li> <a class="twikiLink" href="Meetings.html">Meetings</a>
-</li>
-</ul>
-<p />
-<br>
-<p />
-  </div>
-</div><div class="twikiMain"><div class="toolBar">
-<div class="flexMenuBar"><div class="flexMenu" onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);">
-  <p>Page</p>
-  <div id="flexMenuContent100" class="flexMenuContent">
-    <ul>
-      <li><a href="https://program-transformation.org/edit/WGLD/Austin2012?t=1595608578">Edit Page</a></li>
-      <li><a href="https://program-transformation.org/rename/WGLD/Austin2012">Rename Page</a></li>
-      <li><a href="../attach/WGLD/Austin2012.html">Attach File</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/WGLD/Austin2012ff14.html?skin=print.pattern">Printable</a></li>
-      <li><a href="../view/WGLD/Austin2012b7e4?skin=text&amp;raw=on&amp;contenttype=text/plain">Wiki Source</a></li>
-    </ul>
-    <ul>
-       <li class="revision"><a href="../view/WGLD/Austin2012eb1e.html?rev=1.16">Rev 16</a> <a href="https://program-transformation.org/rdiff/WGLD/Austin2012?rev1=1.16&amp;rev2=1.15">(diff 15)</a></li> <li class="revision"><a href="../view/WGLD/Austin2012c80f.html?rev=1.15">Rev 15</a> <a href="https://program-transformation.org/rdiff/WGLD/Austin2012?rev1=1.15&amp;rev2=1.14">(diff 14)</a></li> <li class="revision"><a href="../view/WGLD/Austin20128548.html?rev=1.14">Rev 14</a> <a href="https://program-transformation.org/rdiff/WGLD/Austin2012?rev1=1.14&amp;rev2=1.13">(diff 13)</a></li>
-      <li><a href="https://program-transformation.org/rdiff/WGLD/Austin2012">Total History</a></li>
-    </ul>
-    <ul>
-      <li><a href="../oops/WGLD/Austin2012f51f.html?template=oopsmore&amp;param1=1.16&amp;param2=1.16">More ...</a></li>
-    </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);">
-  <p>Web</p>
-  <div id="flexMenuContent102" class="flexMenuContent">
-    <ul>
-      <li><a class="twikiLink" href="WebChanges.html">Recent Changes</a></li>
-      <li><a class="twikiLink" href="WebNotify.html">Notify Service</a></li>
-      <li><a class="twikiLink" href="WebNews.html">News</a></li>
-    </ul>
-    <ul>
-      <li><a class="twikiLink" href="WebIndex.html">Page Index</a></li>
-      <li><a class="twikiLink" href="WebSearch.html">Search</a></li>
-      </ul>
-      <ul>
-   <li><a href="../oops/WGLD/Austin2012f51f.html?template=oopsmore&amp;param1=1.16&amp;param2=1.16">More ...</a></li>
-      </ul>
-  </div>
-</div>
-<div class="flexMenu" onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);">
-  <p>Wiki</p>
-  <div id="flexMenuContent103" class="flexMenuContent">
-    <ul>
-      <li><a href="../view/TWiki/WebHome.html">About TWiki</a></li>
-      <li><a href="../view/TWiki/TextFormattingRules.html">Text Formatting</a></li>
-    </ul>
-    <ul>
-      <li><a href="../view/TWiki/TWikiRegistration.html">Registration</a></li>
-      <li><a href="../view/TWiki/ChangePassword.html">Change Password</a></li>
-      <li><a href="../view/TWiki/ResetPassword.html">Reset Password</a></li>
-    </ul>
-      <ul>
-   <li><a href="../view/Main/TWikiUsers.html">Users</a></li>
-   <li><a href="../view/Main/TWikiGroups.html">Groups</a></li>
-      </ul>
-  </div>
-</div></div>
-</div> <div class="twikiTopic">
+<div class="twikiTopic">
 <h1 class="twikiTopicTitle">Austin 2012</h1>
 <div class="twikiWebTitle">Working Group on Language Design</div>
 <p />
@@ -126,7 +20,7 @@ The meeting will be held in Austin
 <p />
 Top row: Adam Chlipala, Ron Garcia, Tom van Cutsem, Andrew Black, Tijs van der Storm, Gilad Bracha, Shriram Krishnamurthi 
 <p />
-Next: Jan-Willem Maeassen, Markus Völter, Stefan Hanenberg
+Next: Jan-Willem Maeassen, Markus Vï¿½lter, Stefan Hanenberg
 <p />
 Next: Mads Torgersen, Yannis Smaragdakis, Klaus Osterman, Susan Eisenbach, Alex Loh
 <p />
@@ -290,35 +184,4 @@ The <a href="http://www.capmetro.org/schedulemap.aspx?f1=100&amp;s=1&amp;d=0" ta
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> Markus Voelter </td><td bgcolor="#f6f6f6"> <span class="twikiNewLink" style='background : #FFFFCE;'><font color="#0000FF">An extensible version of the C programming language for Embedded Programming</font><a href="https://program-transformation.org/edit/WGLD/PubWGLDAustin2012markusvoelterpdf?topicparent=WGLD.Austin2012"><sup>?</sup></a></span> </td></tr>
 </table>
 <p />
-<br class="twikiClear" />
-<a name="TopicEnd"></a>
 </div>
-<!---->
-<!---->
-<div class="twikiAttachments"><p></p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr><th class="twikiFirstCol" bgcolor="#d9e3ea"><a href="Austin20123d80.html?sortcol=0&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> I</font></a> </th><th bgcolor="#d9e3ea"><font color="#005aa0"> <a class="twikiLink" href="../TWiki/FileAttachment.html">Attachment</a></font> <a href="Austin2012c645.html?sortcol=1&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><img src="../pub/TWiki/TablePlugin/diamond.gif" border="0" alt="sort" /></a></th><th bgcolor="#d9e3ea"><a href="Austin2012cfc0.html?sortcol=2&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Action</font></a> </th><th bgcolor="#d9e3ea"><a href="Austin20123f27.html?sortcol=3&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Size</font></a> </th><th bgcolor="#d9e3ea"><a href="Austin201245ce.html?sortcol=4&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Date</font></a> </th><th bgcolor="#d9e3ea"><a href="Austin2012b5ec.html?sortcol=5&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Who</font></a> </th><th bgcolor="#d9e3ea"><a href="Austin2012c70f.html?sortcol=6&amp;table=5&amp;up=0#sorted_table" title="Sort by this column"><font color="#005aa0"> Comment</font></a> </th></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/bedrock.pdf">bedrock.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin20120b9b.html?filename=bedrock.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 784.2&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:19 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/garciaWGslides.pdf">garciaWGslides.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin2012379e.html?filename=garciaWGslides.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 2498.3&nbsp;K </td><td bgcolor="#ececec"> 16 Dec 2012 - 22:29 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/Andrew.pdf">Andrew.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin201276fe.html?filename=Andrew.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 9543.0&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:31 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/gilad.pdf">gilad.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin20120fc9.html?filename=gilad.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 614.2&nbsp;K </td><td bgcolor="#ececec"> 16 Dec 2012 - 22:31 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/KimBruce.pdf">KimBruce.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin201270ea.html?filename=KimBruce.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 173.6&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:32 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/klaus.pdf">klaus.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin2012d77c.html?filename=klaus.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 712.2&nbsp;K </td><td bgcolor="#ececec"> 16 Dec 2012 - 22:33 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/markusvoelter.pdf">markusvoelter.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin20125b3b.html?filename=markusvoelter.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 3148.4&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:34 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/Orthogonality.pdf">Orthogonality.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin20127183.html?filename=Orthogonality.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 4268.5&nbsp;K </td><td bgcolor="#ececec"> 16 Dec 2012 - 22:35 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/Roberto.pdf">Roberto.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin2012d5ee.html?filename=Roberto.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 91.5&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:35 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/else.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/shriram.pptx">shriram.pptx</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin2012c42f.html?filename=shriram.pptx&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 685.5&nbsp;K </td><td bgcolor="#ececec"> 16 Dec 2012 - 22:35 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/tvcutsem.pdf">tvcutsem.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin20129dec.html?filename=tvcutsem.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 2125.4&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:36 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/Visser.pdf">Visser.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin20120fdb.html?filename=Visser.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 656.9&nbsp;K </td><td bgcolor="#ececec"> 16 Dec 2012 - 22:36 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/yannis.pdf">yannis.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin2012c86d.html?filename=yannis.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 163.1&nbsp;K </td><td bgcolor="#f6f6f6"> 16 Dec 2012 - 22:36 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/Hanenberg.pdf">Hanenberg.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin2012a826.html?filename=Hanenberg.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 173.2&nbsp;K </td><td bgcolor="#ececec"> 17 Dec 2012 - 14:14 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#f6f6f6"> <a href="../pub/WGLD/Austin2012/Science.pdf">Science.pdf</a> </td><td bgcolor="#f6f6f6"> <a href="../attach/WGLD/Austin20125284.html?filename=Science.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#f6f6f6"> 3846.4&nbsp;K </td><td bgcolor="#f6f6f6"> 19 Dec 2012 - 00:08 </td><td bgcolor="#f6f6f6"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <img src="../pub/icn/pdf.gif" width="16" height="16" align="top" alt="" border="0" /> </td><td bgcolor="#ececec"> <a href="../pub/WGLD/Austin2012/Leo.pdf">Leo.pdf</a> </td><td bgcolor="#ececec"> <a href="../attach/WGLD/Austin2012bca1.html?filename=Leo.pdf&amp;revInfo=1" title="change, update, previous revisions, move, delete...">manage</a> </td><td align="right" bgcolor="#ececec"> 13557.6&nbsp;K </td><td bgcolor="#ececec"> 28 Dec 2012 - 15:37 </td><td bgcolor="#ececec"> <a class="twikiLink" href="../Main/JonathanEdwards.html">JonathanEdwards</a> </td><td bgcolor="#ececec"> &nbsp; </td></tr>
-</table>
-</div>
-<p />
-<div class="twikiTopicInfo twikiRevInfo twikiGrayText twikiMoved"></div>
-</div></div>
-</div></body>
-<!-- Mirrored from program-transformation.org/WGLD/Austin2012 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jul 2020 00:31:30 GMT -->
-</html>
