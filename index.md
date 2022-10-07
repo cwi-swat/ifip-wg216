@@ -10,9 +10,9 @@ Ivan Chermayeff wrote "Design is directed toward human beings. To design is to s
 > In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains or the sofa. But to me, nothing could be further from the meaning of design. 
 > Design is the fundamental soul of a human-made creation.
 > Good design finds a balance between conflicting goals that are qualitative in nature. 
-> It requires insight, experience, and judgment; in sum: good taste. We need to affirm what really matters about programming languages, both to ourselves and the wider community.
+> It requires insight, experience, and judgment; in sum: good taste. 
 
-For these reasons, this working group seeks to develop a balance between the benefits of openness and diversity and the need to maintain a high-quality membership and high-value conversations. 
+We need to affirm what really matters about programming languages, both to ourselves and the wider community. For these reasons, this working group seeks to develop a balance between the benefits of openness and diversity and the need to maintain a high-quality membership and high-value conversations. 
 
 [Members](members.md)
 
