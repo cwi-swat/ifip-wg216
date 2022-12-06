@@ -4,7 +4,7 @@ We are meeting at Pomona College in Claremont, CA, USA from January 9th through 
 
 Our meetings will be held in Edmunds Hall, 185 E. Sixth St., Claremont, CA 91711.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.815061007863!2d-117.71538884838745!3d34.09987788049773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c331bf67e5306d%3A0x567764746786e7c1!2sEdmunds%2C%20185%20E%206th%20St%2C%20Claremont%2C%20CA%2091711!5e0!3m2!1sen!2sus!4v1670355202825!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.815061007863!2d-117.71538884838745!3d34.09987788049773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c331bf67e5306d%3A0x567764746786e7c1!2sEdmunds%2C%20185%20E%206th%20St%2C%20Claremont%2C%20CA%2091711!5e0!3m2!1sen!2sus!4v1670355202825!5m2!1sen!2sus" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Getting There
 
