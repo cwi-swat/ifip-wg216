@@ -36,6 +36,7 @@ We need to affirm what really matters about programming languages, both to ourse
 - 11: [Nice 2019](meetings/Nice2019.md)
 - 12: [Online 2021](meetings/Online2021.md)
 - 13: [Online 2022](meetings/Online2022.md)
+- 14: [Claremont 2023](meetings/Claremont2023.md)
 
 [Photos](http://www.flickr.com/groups/wgld/)
 
