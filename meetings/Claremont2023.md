@@ -54,4 +54,4 @@ unsafe).
 
 ## Schedule
 
-The precise schedule is TBD. There will be an optional group outing (a hike in the local foothills) on Wednesday afternoon.
+The precise schedule is TBD. There will be an optional group outing (a hike in the foothills or a walk in the botanical gardens, also TBD) on Wednesday afternoon.
