@@ -40,3 +40,6 @@ We need to affirm what really matters about programming languages, both to ourse
 
 [Photos](http://www.flickr.com/groups/wgld/)
 
+## Organization
+
+We have collected [advice for local organizers](local.md).
