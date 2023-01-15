@@ -1,5 +1,8 @@
 # Claremont 2023
 
+![IFIP 2.16 eats lunch at Petisco's](Claremont2023.md){: style="padding:1em;" }
+<small>Photo credit: Kim Bruce.</small>
+
 We are meeting at Pomona College in Claremont, CA, USA from January 9th through January 13th.
 
 Our meetings will be held in Edmunds Hall, 185 E. Sixth St., Claremont, CA 91711.
@@ -54,4 +57,7 @@ unsafe).
 
 ## Schedule
 
-The precise schedule is TBD. There will be an optional group outing (a hike in the foothills or a walk in the botanical gardens, also TBD) on Wednesday afternoon.
+We met Monday through Thursday, with an outing at CalBG on Wednesday
+afternoon. Friday was dedicated to
+[Brucefest](https://kimbruce.party), a retirement party in Kim Bruce's
+honor.
