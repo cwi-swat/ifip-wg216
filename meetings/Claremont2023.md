@@ -1,6 +1,6 @@
 # Claremont 2023
 
-![IFIP 2.16 eats lunch at Petisco's](Claremont2023.md){: style="padding:1em;" }
+![IFIP 2.16 eats lunch at Petisco's](Claremont2023.jpg){: style="padding:1em;" }
 <small>Photo credit: Kim Bruce.</small>
 
 We are meeting at Pomona College in Claremont, CA, USA from January 9th through January 13th.
