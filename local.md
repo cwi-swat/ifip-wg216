@@ -12,7 +12,7 @@ A successful WGLD meeting depends in part on savvy local arrangements. We need:
   - meal arrangements (breakfast, lunch, and dinner, of course---but also coffee breaks)
   - an outing
   
-Sometimes we stay in a single hotel, using a meeting room there. Other times we stay in disparate hotel, meeting at a convention common location (e.g., a college, a co-working space). We've had good meetings spread across a city and we've had good meetings holed away somewhere more remote.
+Sometimes we stay in a single hotel, using a meeting room there. Other times we stay in disparate hotels, meeting at a convenient common location (e.g., a college, a co-working space). We've had good meetings spread across a city and we've had good meetings holed away somewhere more remote.
 
 Especially if we're more spread out, it's wise to have a designated informal spot, like a hotel bar---somewhere we can bump into each other.
 
