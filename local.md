@@ -16,7 +16,7 @@ Sometimes we stay in a single hotel, using a meeting room there. Other times we 
 
 Especially if we're more spread out, it's wise to have a designated informal spot, like a hotel bar---somewhere we can bump into each other.
 
-Formal catering of coffee breaks works well, but so does custom ordering exactly what folks want. (The latter is cheaper but less 'on demand'.) Some members prefer tea---good to have it on hand.
+Formal catering of coffee breaks works best; in a pinch, it's possible to custom order exactly what folks want. (The latter is cheaper but less 'on demand'.) Some members prefer tea---good to have it on hand. Note that universities will often have very early catering deadlines.
 
 ## Reservations and attendance
 
