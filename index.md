@@ -42,4 +42,6 @@ We need to affirm what really matters about programming languages, both to ourse
 
 ## Organization
 
+[What We Do](whatwedo.md)
+
 We have collected [advice for local organizers](local.md).
