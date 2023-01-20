@@ -31,3 +31,5 @@ Our typical arrangement is for the local organizer to cover all meeting costs (r
 Since our membership is international, it's not possible to rely on bank transfers due to the US's charmingly antiquated banking system. It is easy enough to set up an account with Square and take credit cards. (You can add the credit card fees to the bill.)
 
 Alcohol at meals has worked one of two ways: either everyone splits the whole bill evenly, or folks identify themselves as wet or dry for the week---and the alcohol tab is shared by those who've been drinking. Most restaurants will happily accommodate separate tabs for booze and food. Alcohol outside of meals is typically covered by attendees.
+
+## [Tips from WG2.1] (https://ifipwg21wiki.cs.kuleuven.be/IFIP21/HowToOrganize)
