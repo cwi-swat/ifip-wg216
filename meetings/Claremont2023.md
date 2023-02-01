@@ -127,6 +127,8 @@ I will give an overview on the optimizations performed by the Koka compiler and 
 
 ### Ben L. Titzer: Virgil
 
+"Systems Programming" is a term often used but rarely rigorously defined. Opinions differ on the right design or features of a programming language that should support systems programming, but one thing is clear; it is a different domain with hard problems. In this talk I will outline my approach to systems programming in the Virgil programming language, a statically-compiled, garbage-collected, and memory-safe language with limited amounts of unsafe features. In particular, Virgil’s design has been driven by the desire to be completely self-hosted (no runtime code written in other languages), to support direct kernel interaction, and to facilitate the implementation of VMs for guest languages. In particular, I’ll outline the new additions I’ve made to Virgil in order to implement the Wizard Research Engine, a flexible engine for WebAssembly.
+
 ### Adam Chlipala: Nectry: A no-code platform built on dependently typed combinators
 
 I try to mine the audience’s know-how to figure out how to make progress with my startup ambitions, around what is meant to be a highly usable IDE for programming with dependently typed combinators in Ur/Web, to build enterprise-software apps.  I just want to do some demos of the current prototype system, and we can explore corners I didn’t preplan, based on audience suggestions.  Help me figure out the ideal early adopters of this sort of thing!  Or suggest how to improve usability!  The goal is that people who aren’t software engineers can drive this thing successfully some day soon.
