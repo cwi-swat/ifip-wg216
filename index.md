@@ -21,7 +21,7 @@ We need to affirm what really matters about programming languages, both to ourse
 
 ## Meetings
 
-- -1: [Reno 2010](meetings/Reno2010.md)
+- -1: [Reno 2010](meetings/Reno2010.md) (see also the [brief history](history.md))
 - 0: [Moutain View 2011 (Inaugural Meeting)](meetings/MountainView2011.md)
 - 1: [London 2012](meetings/London2012.md)
 - 2: [Austin 2012](meetings/Austin2012.md)
