@@ -7,8 +7,30 @@ The meeting will be co-located with [IFIP WG 2.11 Program Generation](https://wi
 
 For general logistic information please consult the WG 2.11 pages [here](https://wiki.hh.se/wg211/index.php/WG211/M22Schedule).
 
-## Talks
+## Attendees
 
+- François Pottier
+- Yannis Smaragdakis
+- Michael Greenberg
+- Jan-Willem Maessen
+- Martin Odersky
+- Andreas Rossberg
+- Tobias Wrigstad
+- James Noble
+- Tom Van Cutsem
+- Robby Findler
+- Jonathan Aldrich
+- Klaus Ostermann
+-  Tijs van der Storm
+
+Silent observers:
+- Sung-Shik Jongmans
+- Riemer van Rozen
+- Mauricio Verano Merino
+- Thomas van Binsbergen
+
+
+## Talks
 
 
 ### Yannis Smaragdakis: Bug Patterns in Solidity Smart Contracts. Can Language Design Save the Day?
