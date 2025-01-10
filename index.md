@@ -39,6 +39,7 @@ We need to affirm what really matters about programming languages, both to ourse
 - 14: [Claremont 2023](meetings/Claremont2023.md)
 - 15: [Delft 2023](meetings/Delft2023.md)
 - 16: [Pittsburgh 2024](meetings/Pittsburgh2024.md)
+- 17: [Serpiano 2025](meetings/Serpiano2025.md)
 
 [Photos](http://www.flickr.com/groups/wgld/)
 
