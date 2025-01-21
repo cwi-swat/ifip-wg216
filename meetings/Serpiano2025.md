@@ -8,7 +8,7 @@ Friday, April 4, noon.
 
 **Place**: Serpiano*, Switzerland
 
-**Organizer**: Matthias Hauswirth
+**Organizer**: Matthias Hauswirth, USI
 
 *) Serpiano is a somewhat remote location in Switzerland (in walking distance from the border with Italy), with a hotel overlooking Lake Lugano.
 
@@ -16,31 +16,26 @@ Friday, April 4, noon.
 
 ## Meeting Registration
 
-**Coming up soon...**
+Registration is a 3-step process:
 
-[//]: # (Registration is a 3-step process:)
-
-[//]: # (1. Fill out the registration form with your talk and other meta info)
-[//]: # (2. Book a hotel room -- see below, by email to hotel -- you will pay the hotel)
-[//]: # (3. Pay the meeting package -- see below, by USI Qualtrics form -- you will pay USI)
+1. **Fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScloMFZyd6qbnZ-bnm9bOluAgoOhQxCZQhD_1HG9M4H-WHScQ/viewform?usp=header)**
+2. **Book a hotel room** -- see below, by email to hotel -- you will pay the hotel
+3. **Pay the meeting package** -- see below, by online form -- you will pay USI
 
 ## Hotel Booking & Payment
 
-**Coming up soon...**
+Hotel room bookings must be done by writing directly to the hotel at
+[info@serpiano.ch](mailto:info@serpiano.ch) (no other channels) mentioning IFIP (USI).
 
-[//]: # (Hotel room bookings must be done by writing directly to the hotel at )
-[//]: # (info@serpiano.ch--mailto:info@serpiano.ch--no other channels--mentioning IFIP--USI)
-[//]: # (by XXXX.)
-[//]: # (Availability after that is not guaranteed.)
+[//]: # (**by XXXX**. Availability after that is not guaranteed.)
 
-[//]: # (The hotel is holding a block of rooms for us for CHF 99/night)
-[//]: # (--incl. breakfast; an extraordinarily low rate for this time of the year in our area--.)
-[//]: # (Book your room according to your travel preferences)
-[//]: # (--earliest possible check-in at that rate: XXXX, latest possible check-out: XXXX--.)
-[//]: # (The hotel has great views, but it is not exactly centrally located.)
-[//]: # (If you want to spend some more days before or after in Ticino,)
-[//]: # (I recommend to spend those extra nights at a different hotel)
-[//]: # (--e.g., in Lugano, Locarno, or Ascona--.)
+The hotel is holding a block of rooms for us for CHF 99/night for the duration of our meeting
+(incl. breakfast; an extraordinarily low rate for this time of the year in our area).
+Book your room according to your travel preferences.
+The hotel has great views, but it is somewhat remote.
+If you want to spend some more days before or after in Ticino,
+you might want to spend those extra nights in the places you want to visit
+e.g., in Lugano, Locarno, or Ascona.
 
 The hotel has a large free parking lot ([Street View](https://maps.app.goo.gl/2stTc6maEMT9fugo7)).
 You can find some more info on their [FAQ page](https://www.serpiano.ch/en/faq.php).
@@ -50,21 +45,19 @@ They might not immediately answer your emails, but they will get back to you.
 
 ## Meeting Package Payment
 
-**Coming up soon...**
+Payment for the meeting package is separate from the hotel room booking. The meeting package includes meeting room & equipment, coffees, meals (with water, excl. drinks), banquet, and outing. The first included meal is lunch on Monday, the last included meal is lunch on Friday.
 
-[//]: # (Payment for the meeting package)
-[//]: # (--which includes meeting room, coffees, meals, and also the outing--)
-[//]: # (is separate from the hotel room booking.)
+For the outing on Wednesday afternoon we plan a visit to the Monte San Giorgio Fossil Museum in Meride (Monte San Giorgio is a UNESCO World Heritage Site and one of the most important fossil deposits in the world).
 
-Based on weather, the outing will include a trip to Lugano by gondola and boat, and back by train and shuttle.
+If you come alone, simply pick "Meeting registration & Outing".
 
-[//]: # (If you come alone, simply pick --Meeting registration & Outing--.)
+If you bring along a guest, they will have to pay their meals separately directly with the hotel.
+On top of that, if you would like to bring the guest along to the outing,
+you can pay for your full meeting package and the guest's outing in one go:
+pick "Meeting registration & Outing (plus guest)".
+You can also pay for the guest's outing separately: pick "Outing (guest only)".
 
-[//]: # (If you bring along a guest, they will have to pay the meals they use separately directly with the hotel.)
-[//]: # (On top of that, if you would like to bring the guest along to the outing,)
-[//]: # (you can pay for your full meeting package and the guest's outing in one go)
-[//]: # (--pick --Meeting registration & Outing --plus guest--.)
-[//]: # (You can also pay for the guest's outing separately --pick --Outing --guest only--"--.)
+**Payment link coming up soon...** (estimated cost: CHF 945)
 
 [//]: # (Please pay through XXXX operated by our university.)
 
@@ -90,15 +83,15 @@ To get there by public transportation requires three steps:
 
 1. Get to **Mendrisio** by train
 
-   * Train from Lugano (e.g., when arriving from Zurich) ~ 20 min
+   * [Train from Lugano](https://t.ly/ZNNFP) (e.g., when arriving from Zurich) ~ 20 min
 
-   * Direct train from Milano Malpensa (MXP, Terminal 1, or Terminal 2) ~ 1 h 15 min
+   * [Direct train from Milano Malpensa](https://t.ly/67Nz1) (MXP, Terminal 1, or Terminal 2) ~ 1 h 15 min
 
-2. Get from **Mendrisio** to **Meride, Paese** by bus
+2. Get [from **Mendrisio** to **Meride, Paese** by bus](https://t.ly/Yx06P)
 
    * The yellow post bus, B 524, goes once per hour on Sundays
 
-3. Get from **Meride, Paese** to the **Serpiano hotel** [(info)](https://www.serpiano.ch/en/contact.php#directions) by shuttle
+3. Get [from **Meride, Paese** to the **Serpiano hotel**](https://www.serpiano.ch/en/contact.php#directions) by shuttle
 
    * The hotel offers this pick-up service (the hotel page states CHF 30 one way, but they might charge more for single-person pickups -- it might be CHF 30/person if you pair up with someone), **between 9am and 5pm**, but you have to **order two days ahead of time**.
 
