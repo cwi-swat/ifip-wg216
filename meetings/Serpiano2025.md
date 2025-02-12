@@ -57,9 +57,7 @@ you can pay for your full meeting package and the guest's outing in one go:
 pick "Meeting registration & Outing (plus guest)".
 You can also pay for the guest's outing separately: pick "Outing (guest only)".
 
-**Payment link coming up soon...** (estimated cost: CHF 945)
-
-[//]: # (Please pay through XXXX operated by our university.)
+[Meeting Package Payment](https://secure.usi.ch/IFIP/reg.php) (online registration and payment form at USI)
 
 ## Travel
 
