@@ -24,7 +24,7 @@ Friday, March 27, noon.
 
 Registration is a 3-step process:
 
-1. **Fill out the [registration form](TBD)**
+1. **Fill out the [registration form](https://forms.gle/P29mAG39cwUQ3ZuX7)**
 2. **Pay the registration fee**
 3. **Book a hotel room**
 
@@ -33,7 +33,7 @@ All payments are to the hotel Las Majadas. See below for the details.
 
 ### Registration Fee
 
-After filling out the [registration form](TBD), you should proceed to pay the registration fee.
+After filling out the [registration form](https://forms.gle/P29mAG39cwUQ3ZuX7), you should proceed to pay the registration fee.
 
 The registration fee includes meeting room & equipment, coffee breaks, meals, and outing. The first included meal is lunch on Monday, the last included meal is lunch on Friday.
 
