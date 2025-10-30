@@ -20,10 +20,10 @@ Friday, March 27, noon.
 
 ## Registration, Hotel Booking, and Payment
 
-🙏🏻🙏🏻🙏🏻🙏🏻
+🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻
 > **Please register by November 30 in order to guarantee room availability! Reserving rooms after that date will require a personal guarantee by the organizer 😢**
 
-🙏🏻🙏🏻🙏🏻🙏🏻
+🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻
 
 Registration is a 3-step process:
 
