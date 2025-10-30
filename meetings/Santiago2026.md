@@ -31,7 +31,7 @@ Registration is a 3-step process:
 All payments are to the hotel Las Majadas. See below for the details.
 
 
-### Registration Fee
+### Registration
 
 After filling out the [registration form](https://forms.gle/P29mAG39cwUQ3ZuX7), you should proceed to pay the registration fee.
 
@@ -52,7 +52,7 @@ Then click on the "Pagar" button. You'll be directed to another page where you c
 
 ### Hotel Booking
 
-Once the hotel has received your registration payment receipt, they will contact you in order to proceed with the booking of your room. 
+Once the hotel has received your [registration payment](#registration) receipt, they will contact you in order to proceed with the booking of your room. 
 
 They will ask for your credit card as a means of securing your booking. The actual guarantee on the card will activate on March 2nd. The payment itself will be done upon checkout, as usual. 
 
