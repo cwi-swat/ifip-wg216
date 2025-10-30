@@ -8,11 +8,14 @@ Friday, March 27, noon.
 
 **Place**: Santiago, Chile 
 
+**Organizer**: Éric Tanter, University of Chile
+
+
+
 ![Las Majadas de Pirque](Santiago2026-majadas.jpg)
 [Las Majadas de Pirque](https://lasmajadas.cl/en/): a beautiful historical house in a large private park filled with old trees, a modern infrastructure, and plenty of cozy spots to socialize. 
 
 
-**Organizer**: Éric Tanter, University of Chile
 
 
 ## Registration, Hotel Booking, and Payment
