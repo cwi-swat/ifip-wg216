@@ -8,10 +8,8 @@ Friday, March 27, noon.
 
 **Place**: Santiago, Chile 
 
-[Las Majadas de Pirque](https://lasmajadas.cl/en/)
-[](Santiago2026-majadas.jpg)
-
-A beautiful historical house in a large private park filled with old trees, modern infrastructure, and plenty of cozy spots to socialize. 
+![Las Majadas de Pirque](Santiago2026-majadas.jpg)
+[Las Majadas de Pirque](https://lasmajadas.cl/en/): a beautiful historical house in a large private park filled with old trees, a modern infrastructure, and plenty of cozy spots to socialize. 
 
 
 **Organizer**: Éric Tanter, University of Chile
@@ -19,7 +17,7 @@ A beautiful historical house in a large private park filled with old trees, mode
 
 ## Registration, Hotel Booking, and Payment
 
-> [!WARNING] **Please register by November 30 in order to guarantee room availability!**
+> **Please register by November 30 in order to guarantee room availability!**
 
 Registration is a 3-step process:
 
@@ -46,7 +44,7 @@ The form is in Spanish so:
 
 Then click on the "Pagar" button. You'll be directed to another page where you can choose the payment method; click on "Tarjetas" (cards). They accept Visa, Mastercard, and Amex.
 
-> [!WARNING] **IMPORTANT:** After validating the payment, send your payment receipt to [wgld26@dcc.uchile.cl](mailto:wgld26@dcc.uchile.cl)
+> **IMPORTANT:** After validating the payment, send your payment receipt in PDF to [wgld26@dcc.uchile.cl](mailto:wgld26@dcc.uchile.cl)
 
 
 ### Hotel Booking
@@ -62,7 +60,7 @@ Note that at checking time, you will need to present your *travel entry receipt*
 
 It is possible to share a room with another participant. If so, mention it when you are contacted by the hotel regarding your room. Up to 2 persons can share a room, at no extra cost.
 
-If you bring along a guest (not a WGLD meeting participant), [contact me by email](mailto:etanter@dcc.uchile.cl), indicating the days/meals they intend to have and if they will join the outing, so that I can calculate and confirm the amount to be paid. The payment will have to be carried out through the same online payment form as your registration.
+If you bring along a guest (not a WGLD meeting participant), [contact me by email](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20guest), indicating the days/meals they intend to have and if they will join the outing, so that I can calculate and confirm the amount to be paid. The payment will have to be carried out through the same online payment form as your registration.
 
 ### Outing
 
@@ -99,7 +97,7 @@ Santiago is a geographically vast city, divided in "comunas". The standard of li
 
 Santiago Centro (the historical center) is not so great/safe to stay, depending on your expectations. It is entirely fine (and recommended!) to visit, though, as long as you apply basic safety guidelines that apply in any (developing/emerging) country. 
 
-Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl) if in doubt.
+Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
 
 <!---
 ## Frequently Asked Questions (TO BE DONE)
