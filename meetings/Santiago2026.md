@@ -1,6 +1,6 @@
 # Santiago 2026
 
-Welcome to the website for the 18th meeting of IFIP Working Group 2.16.
+Welcome to the website for the 18th meeting of the IFIP Working Group 2.16 on Language Design.
 
 **Dates**: Sunday, March 22, evening
 to
