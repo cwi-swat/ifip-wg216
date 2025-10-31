@@ -105,7 +105,7 @@ Santiago Centro (the historical center) is not so great/safe to stay, depending 
 
 Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
 
-## Frequently Asked Questions (WIP)
+## Frequently Asked Questions
 
 ### What facilities are available at Las Majadas?
 
@@ -166,10 +166,14 @@ I'm confirming the details with the hotel. Stay tuned.
 
 There's a ton of wonderful places around, from the desert and salt lakes of the North to the glaciars and fjords of the South, with volcanoes along the 4000+ kms of Andes mountain, and the same length of Pacific coast. And that's without talking about Easter Island or the Antartic. 
 
-I can't really do it justice here, and of course, there's abundant information on the web.
+ChatGPT cooked a mix for us:
 
+![Chile by ChatGPT](Santiago2026-chile.jpg)
 
+Anyway, I can't really do justice to this dimension here. 
+There's abundant information on the web, so enjoy your planning!
 
+Don't hesitate to [contact me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20travel) if you have any question.
 
 <!---
 
