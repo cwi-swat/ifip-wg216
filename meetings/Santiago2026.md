@@ -101,7 +101,7 @@ Santiago is a geographically vast city, divided in "comunas". The standard of li
 * Vitacura
 * Las Condes
 
-Santiago Centro (the historical center) is not so great/safe to stay, depending on your expectations. It is entirely fine (and recommended!) to visit, though, as long as you apply basic safety guidelines that apply in any (developing/emerging) country. 
+Santiago Centro (the historical center) is not so great/safe to stay, depending on your expectations. It is entirely fine (and recommended!) to visit, though, as long as you apply basic safety guidelines. 
 
 Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
 
