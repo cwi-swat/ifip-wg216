@@ -105,51 +105,74 @@ Santiago Centro (the historical center) is not so great/safe to stay, depending 
 
 Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
 
-<!---
-## Frequently Asked Questions (TO BE DONE)
+## Frequently Asked Questions (WIP)
 
-### What if I arrive after 22:00 at the hotel?
+### What facilities are available at Las Majadas?
 
-The hotel reception is open until 10pm.
-Please notify the hotel in advance if you plan to arrive after 10pm.
+Free of charge, we will have access to a small gym (with a couple of machines), a wet and dry sauna, an outdoor pool, and bikes to ride in the park. 
 
-### How to purchase train & bus tickets?
+They also have a Spa section that offers massages, for which you'd have to pay separately.
 
-I highly recommend installing the [SBB Mobile App](https://www.sbb.ch/en/travel-information/apps/sbb-mobile.html) to get your tickets for public transportation (trains, tram, bus, ...) in Switzerland and even to/from nearby Italy (e.g., to/from Milano Malpensa airport). The app includes the schedule with real-time information on possible delays. Alternatively, you could also buy tickets on the [SBB web site](https://www.sbb.ch/en).
+### How to purchase metro & bus tickets in Santiago?
 
-Note that on the App and the web site you can buy tickets that combine multiple segments, even across the border (e.g., from Malpensa airport all the way to Meride, Paese).
+As a foreigner, your only option is to acquire a physical card, called a Bip card (*tarjeta Bip!*). You can buy a Bip card at any metro station (and some shops with the "Bip!" sign), with an initial amount. The card is rechargeable. It works for both metro and buses. 
 
-At [Mendrisio station](https://www.sbb.ch//en/travel-information/stations/find-station/station.5305.mendrisio.html), like at every train station, there will be a [ticket machine](https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/sbb-ticket-machine.html) (accepting payment also by credit card), but the ticket counter is **closed** on Sunday.
+If possible, favor metro, but the grid is rather sparse, so you may have to take a bus (or a car, see below). 
 
-At the [Meride, Paese bus stop](https://maps.app.goo.gl/zCtLbqkQeHvyf9CA7), there is **no ticket machine** (it's just a sign in a small village). However, you will get a free "[Ticino Ticket](https://www.mendrisiottoturismo.ch/en/pianifica/come-muoversi/ticino-ticket.html)" from the hotel when you check in, and that ticket is valid for public transportation within Ticino (but not all the way to Italy/Malpensa) up to midnight on the day of checkout.
+Google Maps app has great knowledge of the public transportation network in Santiago, so this should probably be your go-to solution to figure out how to get anywhere.
 
-### How to pay for a taxi?
 
-Taxis should accept credit cards (MasterCard, Visa).
+### What about taxis (and alternatives)?
 
-### Where do I find taxis and busses at the Mendrisio train station?
+Taxi drivers tend to be fishy with foreigners. If you don't know your way, be sure to follow the route on some map app. If you pay in cash, be super clear about the bill(s) your handing the driver, so that he does not pretend you gave a lower amount afterward, and double-check your change. Most taxis should have a machine for card payments, but you may want to confirm before boarding.
 
-While there are three marked taxi parking spots right in front of the station (see photo above), there don't seem to be any taxis waiting. Reserve your taxi ahead of time (e.g., [Alpha Taxi Mendrisio](https://www.taxi-mendrisio.com/en/services-4/about-6-1)). If you didn't make a reservation, you might still be able to call them to get them to pick you up.
+For all these reasons, I would highly recommend using ride-sharing apps instead. Uber, Didi, and Cabify are very active and reliable in Santiago, and the prices are often more interesting. If you have several of these apps, don't hesitate to check on each, prices vary.
 
-There is a **bus** island right at the train station (on the side of the station building, in the direction towards Lugano, see photo above). The bus only gets you to the village of Meride. You still need to get from there to the hotel. Their "shuttle" from Meride to the hotel is CHF 30, and you should have reserved it two days ahead of time. (I suspect the "shuttle" is just a taxi they call for you. It's probably so expensive because they need to first get to the little village of Meride, so you pay for much more than just the 5 km they actually carry you. You might want to walk from Meride to the hotel, but it's an hour-long walk through the woods...)
-
-### How to drive to the hotel?
-
-The last part of the street to the hotel is a [quite narrow, single-lane, curvy, paved road through the woods](https://maps.app.goo.gl/J1UGHZdHDAVd33uM7). If you encounter an oncoming car, you might have to back up a little to a spot where you can cross. There should be almost no traffic (the road pretty much ends at the hotel), so chances that you will encounter an oncoming car are rather small.
-
-### Power and video adapters?
-
-If possible, bring a power adapter (the [Swiss power plugs](https://en.wikipedia.org/wiki/SN_441011) are different from EU plugs) and an adapter for your laptop's video output. We probably will have an HDMI cable for the projector.
+On these apps, you can also request standard taxis, and then you have the guarantee of smooth payment (via the app), no journey tricks, etc.
 
 ### What will the weather be like?
 
-The [weather in our area](https://www.meteoswiss.admin.ch/local-forecasts/serpiano/6867.html#forecast-tab=weekly-overview) has been wetter than it used to be in the past. Bring an umbrella and a rain jacket.
+March is the end of the summer, and is usually a very pleasant period, sunny and warm. For people familiar with Salt Lake City and its surroundings, it's quite similar (dry, mountains around, etc.).
+
+Asking Google shows the following monthly averages so you can get an idea:
+
+| Month | High / Low (°C) | Rain |
+|---|---|---|
+| Feb | 30° / 11° | 0 days| 
+| Mar | 28° / 10° | 0 days|
+| Apr | 24° / 7°  | 1 day|
+
+Note that it's rather fresh at night (especially that we'll be rather close to the mountains and in the outside of the city). 
+
+Not much use for an umbrella normally 😅.
+
+
+### Power and video adapters?
+
+[See here for power plugs](https://www.power-plugs-sockets.com/chile/).
+
+I'm confirming with the hotel regarding the available cables for the projector. Stay tuned.
 
 ### Will there be dinner and socializing on Sunday evening?
 
-If you arrive before dinner (the hotel restaurant's dinner times are 18:30 - 21:00), you may want to have dinner at the hotel (Sunday dinner is not included in our package). Also, you can meet up at the bar, which is open 19:30 to 22:30.
+Yes, although not included in the registration. I'm confirming the hours with the hotel. Stay tuned.
 
-If the weather is nice, it might be great to sit outside on the terrace with a view down onto the lake.
+### Can I check-in late?
+
+I'm confirming the details with the hotel. Stay tuned.
+
+
+### What about interesting tourist destinations in Chile?
+
+There's a ton of wonderful places around, from the desert and salt lakes of the North to the glaciars and fjords of the South, with volcanoes along the 4000+ kms of Andes mountain, and the same length of Pacific coast. And that's without talking about Easter Island or the Antartic. 
+
+I can't really do it justice here, and of course, there's abundant information on the web.
+
+
+
+
+<!---
+
 
 ### Other questions about the hotel?
 
