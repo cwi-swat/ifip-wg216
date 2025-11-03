@@ -106,6 +106,7 @@ Santiago Centro (the historical center) is not so great/safe to stay, depending 
 Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
 
 ## Frequently Asked Questions
+*last updated: Nov 3, 2025*
 
 ### What facilities are available at Las Majadas?
 
@@ -151,15 +152,17 @@ Not much use for an umbrella normally 😅.
 
 [See here for power plugs](https://www.power-plugs-sockets.com/chile/).
 
-I'm confirming with the hotel regarding the available cables for the projector. Stay tuned.
+The hotel has both HDMI and USB-C cables for the projector.
 
 ### Will there be dinner and socializing on Sunday evening?
 
-Yes, although not included in the registration. I'm confirming the hours with the hotel. Stay tuned.
+Yes, although not included in the registration. 
+
+The hotel restaurant opens 7pm-10pm for dinner, and the tavern (pub) is open 10:30pm-2:00am.
 
 ### Can I check-in late?
 
-I'm confirming the details with the hotel. Stay tuned.
+The hotel can accommodate checking in at any time.
 
 
 ### What about interesting tourist destinations in Chile?
