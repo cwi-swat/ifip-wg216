@@ -55,7 +55,7 @@ Then click on the "Pagar" button. You'll be directed to another page where you c
 
 ### Hotel Booking
 
-Once the hotel has received your [registration payment](#registration) receipt, they will contact you in order to proceed with the booking of your room. 
+The price per night is 202 USD (can be shared, see below). Do not book your room directly on the hotel website, otherwise you won't get this reduced rate. Once the hotel has received your [registration payment](#registration) receipt, they will contact you in order to proceed with the booking of your room. 
 
 They will ask for your credit card as a means of securing your booking. The actual guarantee on the card will activate on March 2nd. The payment itself will be done upon checkout, as usual. 
 
