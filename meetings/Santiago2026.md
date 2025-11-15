@@ -101,6 +101,12 @@ Santiago is a geographically vast city, divided in "comunas". The standard of li
 * Vitacura
 * Las Condes
 
+The ordering is not random: many visitors have found staying in Providencia very convenient. You might want to make sure you have a metro station within walking distance. In addition to the Providencia neighborhood (around metro line 1 between Manuel Montt and Tobalaba metro stations), a nice  neighborhood to hang out is Barrio Italia. 
+
+For hanging out, Plaza Ñuñoa is also quite nice. Ñuñoa in general is a bit more residential than Providence, but now has metro lines, so this is changing and it's easy to commute between these sectors.
+
+Vitacura and Las Condes are more upscale neighborhoods, and you'll find the usual big hotels, malls, etc. in these comunas.
+
 Santiago Centro (the historical center) is not so great/safe to stay, depending on your expectations. It is entirely fine (and recommended!) to visit, though, as long as you apply basic safety guidelines. 
 
 Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
