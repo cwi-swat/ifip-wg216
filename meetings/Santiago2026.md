@@ -57,6 +57,8 @@ Then click on the "Pagar" button. You'll be directed to another page where you c
 
 The price per night is 202 USD (can be shared, see below). Do not book your room directly on the hotel website, otherwise you won't get this reduced rate. Once the hotel has received your [registration payment](#registration) receipt, they will contact you in order to proceed with the booking of your room. 
 
+> *Don't worry if the hotel isn't very fast at getting back to you regarding the room booking. As long as you've done the previous steps (filling the form, paying the registration fee, and [sending your receipt](mailto:wgld26@dcc.uchile.cl), you're good).*
+
 They will ask for your credit card as a means of securing your booking. The actual guarantee on the card will activate on March 2nd. The payment itself will be done upon checkout, as usual. 
 
 Note that at checking time, you will need to present your *travel entry receipt*, a small paper slip provided by the Chilean authorities at the airport. This receipt is important for exiting the country, so *keep it safe!*.
@@ -101,9 +103,11 @@ Santiago is a geographically vast city, divided in "comunas". The standard of li
 * Vitacura
 * Las Condes
 
-The ordering is not random: many visitors have found staying in Providencia very convenient. You might want to make sure you have a metro station within walking distance. In addition to the Providencia neighborhood (around metro line 1 between Manuel Montt and Tobalaba metro stations), a nice  neighborhood to hang out is Barrio Italia. 
+The ordering is not random: many visitors have found staying in Providencia very convenient. You might want to make sure you have a metro station within walking distance. Specifically, a safe bet would be any hotel with good ratings located between Manuel Montt and Tobalaba metro stations (Line 1), between Avenida Andres Bello and Avenida Nueva Providencia (approx). 
 
-For hanging out, Plaza Ñuñoa is also quite nice. Ñuñoa in general is a bit more residential than Providence, but now has metro lines, so this is changing and it's easy to commute between these sectors.
+
+To hang out, in addition to the Providencia neighborhood, a nice option is Barrio Italia, as well as 
+Plaza Ñuñoa is also quite nice. Ñuñoa in general is a bit more residential than Providence, but now has metro lines, so this is changing and it's easy to commute between these sectors.
 
 Vitacura and Las Condes are more upscale neighborhoods, and you'll find the usual big hotels, malls, etc. in these comunas.
 
