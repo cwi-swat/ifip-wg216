@@ -107,7 +107,7 @@ The ordering is not random: many visitors have found staying in Providencia very
 
 
 To hang out, in addition to the Providencia neighborhood, a nice option is Barrio Italia, as well as 
-Plaza Ñuñoa is also quite nice. Ñuñoa in general is a bit more residential than Providence, but now has metro lines, so this is changing and it's easy to commute between these sectors.
+Plaza Ñuñoa is also quite nice. Ñuñoa in general is a bit more residential than Providencia, but now has metro lines, so this is changing and it's easy to commute between these sectors.
 
 Vitacura and Las Condes are more upscale neighborhoods, and you'll find the usual big hotels, malls, etc. in these comunas.
 
