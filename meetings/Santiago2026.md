@@ -59,9 +59,11 @@ The price per night is 202 USD (can be shared, see below). Do not book your room
 
 > *Don't worry if the hotel isn't very fast at getting back to you regarding the room booking. As long as you've done the previous steps (filling the form, paying the registration fee, and [sending your receipt](mailto:wgld26@dcc.uchile.cl), you're good).*
 
-They will ask for your credit card as a means of securing your booking. The actual guarantee on the card will activate on March 2nd. The payment itself will be done upon checkout, as usual. 
+They will ask for your credit card details as a means of securing your booking. The actual guarantee on the card will activate on March 2nd. The payment itself will be done upon checkout, as usual. 
 
-Note that at checking time, you will need to present your *travel entry receipt*, a small paper slip provided by the Chilean authorities at the airport. This receipt is important for exiting the country, so *keep it safe!*.
+If you are uncomfortable sharing your card details via a good old PDF form, they also have an [online booking option with WeTravel](https://www.wetravel.com/trips/fcfm-u-de-chile-wgld-30-px-22-a-27-marzo-2026-hotel-las-majadas-0345337136). If you use this option, make sure to [email us your confirmation](mailto:wgld26@dcc.uchile.cl).
+
+>Note that at checking time, you will need to present your *travel entry receipt*, a small paper slip provided by the Chilean authorities at the airport. This receipt is important for exiting the country, so *keep it safe!*
 
 
 ### Room Sharing and Guests
@@ -87,7 +89,7 @@ The hotel Las Majadas is [located South of Santiago](https://www.google.com/maps
 
 If you're coming straight from the airport, then the most convenient is to arrange a (private) transfer via [Transvip](https://transvip.cl) or any other official booth at the airport (situated after customs, *before* exiting to the hall). Avoid other taxi offers that you'll get when you arrive in the hall. The trip should take ~1h.
 
-If you're coming from Santiago, you can get to Las Majadas by Uber, Cabify, Didi, or standard taxis. I would recommend using an app, this way you're sure that the driver won't trick you (they are good at this). This should take ~40 min depending on the time of day and traffic conditions (up to 1h).
+If you're coming from Santiago, you can get to Las Majadas by Uber, Cabify, Didi, or standard taxis. I would recommend using an app, this way you're sure that the driver won't trick you (they tend to be good at this). This should take ~40 min depending on the time of day and traffic conditions (up to 1h).
 
 If you want a cheaper (but not necessarily faster) way to commute between Santiago
 and Las Majadas, you can take Metro Line 4 down to the Puente Alto station, and then take a car (Uber/etc.) to Las Majadas. I don't recommend this option, except maybe at peak hours---it's safer and easier to grab a car from the central areas of Santiago (see below about [Staying in Santiago](#staying-in-santiago)).
