@@ -134,6 +134,7 @@ If possible, favor metro, but the grid is rather sparse, so you may have to take
 
 Google Maps app has great knowledge of the public transportation network in Santiago, so this should probably be your go-to solution to figure out how to get anywhere.
 
+*UPDATE: as of Feb 13, contactless payment with bank cards will be available in all metro stations. If it works as advertised, this should be the most convenient option, as you don't need to acquire a Bip card.*
 
 ### What about taxis (and alternatives)?
 
