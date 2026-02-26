@@ -22,9 +22,10 @@ Friday, March 27, noon.
   - [Registration](#registration)
   - [Hotel Booking](#hotel-booking)
   - [Room Sharing and Guests](#room-sharing-and-guests)
-  - [Outing](#outing)
+  - [Outing](#outing) [updated Feb 26]
 - [Travel](#travel)
   - [Airport](#airport)
+  - [Customs Rules for Plant & Animal Products](#customs-rules-for-plant--animal-products) [Added Feb 26]
   - [Hotel](#hotel)
   - [Staying in Santiago](#staying-in-santiago)
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -101,6 +102,28 @@ We are also planning a wine tasting session at the Majadas that day, around 6:30
 ### Airport
 
 It's easy, there's just one option: Santiago de Chile (SCL).
+
+
+### Customs Rules for Plant & Animal Products
+
+Chile has very strict biosecurity controls. You'll need to fill in a declaration indicating whether you're carrying plant and animal products (even packaged ones). Customs officers and their dogs check baggage (including carry-on) at the airport.
+
+**Not allowed at all:**
+- Fresh fruits and vegetables
+- Raw or fresh meat
+- Soil (check shoes and outdoor gear)
+
+**Allowed but must be declared** (will be reviewed and may be confiscated):
+- Dairy products (cheese, butter, cream)
+- Processed/cured meats and sausages
+- Seeds, nuts, dried fruits
+- Plants, cuttings, bulbs, dried flowers
+- Honey
+
+**Generally OK:** Packaged foods like cookies, coffee, tea, spices, canned goods, and oils are usually fine — but still declare them.
+
+A simple rule: when in doubt, **declare**, as fines for not declaring can be steep.
+Better safe than sorry!
 
 ### Hotel
 
