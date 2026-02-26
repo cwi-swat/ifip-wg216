@@ -16,14 +16,29 @@ Friday, March 27, noon.
 [Las Majadas de Pirque](https://lasmajadas.cl/en/): a beautiful historical house in a large private park filled with old trees, a modern infrastructure, and plenty of cozy spots to socialize. 
 
 
+## Table of Contents
+
+- [Registration, Hotel Booking, and Payment](#registration-hotel-booking-and-payment)
+  - [Registration](#registration)
+  - [Hotel Booking](#hotel-booking)
+  - [Room Sharing and Guests](#room-sharing-and-guests)
+  - [Outing](#outing)
+- [Travel](#travel)
+  - [Airport](#airport)
+  - [Hotel](#hotel)
+  - [Staying in Santiago](#staying-in-santiago)
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [What facilities are available at Las Majadas?](#what-facilities-are-available-at-las-majadas)
+  - [How to purchase metro & bus tickets in Santiago?](#how-to-purchase-metro--bus-tickets-in-santiago)
+  - [What about taxis (and alternatives)?](#what-about-taxis-and-alternatives)
+  - [What will the weather be like?](#what-will-the-weather-be-like)
+  - [Power and video adapters?](#power-and-video-adapters)
+  - [Will there be dinner and socializing on Sunday evening?](#will-there-be-dinner-and-socializing-on-sunday-evening)
+  - [Can I check-in late?](#can-i-check-in-late)
+  - [What about interesting tourist destinations in Chile?](#what-about-interesting-tourist-destinations-in-chile)
 
 
 ## Registration, Hotel Booking, and Payment
-
-🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻
-> **Please register by November 30 in order to guarantee room availability! Reserving rooms after that date will require a personal guarantee by the organizer 😢**
-
-🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻 🙏🏻
 
 Registration is a 3-step process:
 
@@ -72,10 +87,14 @@ It is possible to share a room with another participant. If so, mention it when 
 
 If you bring along a guest (not a WGLD meeting participant), [contact me by email](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20guest), indicating the days/meals they intend to have and if they will join the outing, so that I can calculate and confirm the amount to be paid. The payment will have to be carried out through the same online payment form as your registration.
 
-### Outing
+### Outing 
 
-The registration fee includes an outing, details will be announced soon-ish.
+The registration fee includes an outing. On Wednesday afternoon, we'll go for a 1h30~ walk in the surroundings (pre-cordillera). A bus will take us to the trail, which is only 15 min from the hotel. 
 
+Meeting time at the Majadas is 2:30pm on Wednesday. 
+We should be back to the Majadas by 5pm. 
+
+We are also planning a wine tasting session at the Majadas that day, around 6:30pm. This activity is optional, at an extra cost. It includes a tasting of 3-4 "innovating" Chilean wines.
 
 ## Travel
 
