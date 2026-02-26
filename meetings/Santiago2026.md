@@ -113,14 +113,14 @@ Chile has very strict biosecurity controls. You'll need to fill in a declaration
 - Raw or fresh meat
 - Soil (check shoes and outdoor gear)
 
-**Allowed but must be declared** (will be reviewed and may be confiscated):
+**Allowed but must be declared**:
 - Dairy products (cheese, butter, cream)
 - Processed/cured meats and sausages
 - Seeds, nuts, dried fruits
 - Plants, cuttings, bulbs, dried flowers
 - Honey
 
-**Generally OK:** Packaged foods like cookies, coffee, tea, spices, canned goods, and oils are usually fine — but still declare them.
+**Generally OK:** Packaged foods like cookies, coffee, tea, spices, canned goods, and oils are usually fine — but it's better to still declare them.
 
 A simple rule: when in doubt, **declare**, as fines for not declaring can be steep.
 Better safe than sorry!
