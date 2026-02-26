@@ -108,22 +108,13 @@ It's easy, there's just one option: Santiago de Chile (SCL).
 
 Chile has very strict biosecurity controls. You'll need to fill in a declaration indicating whether you're carrying plant and animal products (even packaged ones). Customs officers and their dogs check baggage (including carry-on) at the airport.
 
-**Not allowed at all:**
-- Fresh fruits and vegetables
-- Raw or fresh meat
-- Soil (check shoes and outdoor gear)
+**Allowed:** Packaged foods like cookies, coffee, tea, spices, canned goods, oils, dairy products (cheese, butter, cream), processed/cured meats and sausages, nuts, and dried fruits. 
 
-**Allowed but must be declared**:
-- Dairy products (cheese, butter, cream)
-- Processed/cured meats and sausages
-- Seeds, nuts, dried fruits
-- Plants, cuttings, bulbs, dried flowers
-- Honey
+**Not allowed at all:** Fresh fruits and vegetables, raw or fresh meat, honey.
 
-**Generally OK:** Packaged foods like cookies, coffee, tea, spices, canned goods, and oils are usually fine — but it's better to still declare them.
+A simple rule: unless you're sure you carry nothing at all, **declare** that you are carrying some products. When they ask, they'll tell you whether it's ok or not. If they detect a product that is not ok, they confiscate it without any further hassle. But if you do not declare and carry some product, the fine can be steep. Better safe than sorry!
 
-A simple rule: when in doubt, **declare**, as fines for not declaring can be steep.
-Better safe than sorry!
+
 
 ### Hotel
 
