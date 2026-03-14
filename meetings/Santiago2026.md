@@ -197,6 +197,7 @@ Vitacura:
 Ñuñoa:
 - La Finestra: Italian
 - La Uruguaya: traditional Uruguayan meat restaurant
+- Brisas del Mar: very good Peruvian
 
 
 
