@@ -158,8 +158,11 @@ There is a great culinary offering in Santiago. Following online guides like Tri
 
 Peruvian food is one of the best cuisine you can get, in particular the Japanese-Peruvian fusion known as Nikkei.
 
-Below are a few personal recommendations (the list is really far from being exhaustive). 
+There is also a vast and excellent sushi offering in Santiago: El Japon, Niu Sushi, Do Sushi, Noah Sushi, Acevichados, etc. 
 
+Regarding meat restaurants, famous places include Eladio, La Cabrera, Las Vacas Gordas, Santa Brasa (various restaurants in different locations).
+
+Below are a few personal recommendations (the list is really far from being exhaustive). 
 
 Providencia:
 - El Ancla: seafood
@@ -190,11 +193,11 @@ Vitacura:
 - Bidasoa: creative dishes and drinks, including excellent vegan options
 - Aqui está Coco: creative Chilean cuisine
 
-Meat restaurants: many options! famous ones include Eladio, La Cabrera, Las Vacas Gordas, Santa Brasa (various restaurants in different locations).
-
 Ñuñoa:
 - La Finestra: Italian
 - La Uruguaya: traditional Uruguayan meat restaurant
+
+
 
 
 ## Frequently Asked Questions
