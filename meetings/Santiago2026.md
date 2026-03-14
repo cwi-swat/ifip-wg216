@@ -170,16 +170,16 @@ Providencia:
 - Porfirio: Mexican food and cocktails
 - Baco: French cuisine with creative options
 - Le Bistrot de Gaetan: traditional French cuisine
-- Piso Uno: fine sushi and Nikkei cuisine
+- Piso Uno: sushi and Nikkei cuisine
 - Rivoli: top Italian
 - Giratorio: touristy rotating restaurant with city view
 - Tacu Tacu: famous Peruvian
-- El Huerto: great vegetarian
+- El Huerto: vegetarian
 - Carrer Nou: Spanish cuisine
 - Verde Sazón: vegetarian and cocktails
 
 Bellavista:
-- Peumayen: creative fine Chilean cuisine ("ancestral food")
+- Peumayen: creative Chilean cuisine ("ancestral food")
 - Galindo: a Chilean classic
 
 Las Condes:
