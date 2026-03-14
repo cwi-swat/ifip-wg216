@@ -176,6 +176,7 @@ Providencia:
 - Tacu Tacu: famous Peruvian
 - El Huerto: great vegetarian
 - Carrer Nou: Spanish cuisine
+- Verde Sazón: vegetarian and cocktails
 
 Bellavista:
 - Peumayen: creative fine Chilean cuisine ("ancestral food")
