@@ -25,9 +25,10 @@ Friday, March 27, noon.
   - [Outing](#outing) [updated Feb 26]
 - [Travel](#travel)
   - [Airport](#airport)
-  - [Customs Rules for Plant & Animal Products](#customs-rules-for-plant--animal-products) [Added Feb 26]
+  - [Customs Rules for Plant & Animal Products](#customs-rules-for-plant--animal-products) [Added Mar 14]
   - [Hotel](#hotel)
   - [Staying in Santiago](#staying-in-santiago)
+  - [Restaurant Recommendations](#restaurant-recommendations) [Added Feb 26]
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [What facilities are available at Las Majadas?](#what-facilities-are-available-at-las-majadas)
   - [How to purchase metro & bus tickets in Santiago?](#how-to-purchase-metro--bus-tickets-in-santiago)
@@ -150,8 +151,54 @@ Santiago Centro (the historical center) is not so great/safe to stay, depending 
 
 Don't hesitate to [ask me](mailto:etanter@dcc.uchile.cl?subject=[WGLD]%20question) if in doubt.
 
+
+### Restaurant Recommendations
+
+There is a great culinary offering in Santiago. Following online guides like TripAdvisor or Google reviews is a good way to discover options. 
+
+Peruvian food is one of the best cuisine you can get, in particular the Japanese-Peruvian fusion known as Nikkei.
+
+Below are a few personal recommendations (the list is really far from being exhaustive). 
+
+
+Providencia:
+- El Ancla: seafood
+- Liguria: a Chilean classic
+- Porfirio: Mexican food and cocktails
+- Baco: French cuisine with creative options
+- Le Bistrot de Gaetan: traditional French cuisine
+- Piso Uno: fine sushi and Nikkei cuisine
+- Rivoli: top Italian
+- Giratorio: touristy rotating restaurant with city view
+- Tacu Tacu: famous Peruvian
+- El Huerto: great vegetarian
+- Carrer Nou: Spanish cuisine
+
+Bellavista:
+- Peumayen: creative fine Chilean cuisine ("ancestral food")
+- Galindo: a Chilean classic
+
+Las Condes:
+- Tanta: Peruvian
+- Karai by Mitsuharu: top Nikkei cuisine
+- Tiramisú: pizzeria
+- Mercado Urbano Tobalaba: a recently-built mall with many interesting culinary options
+
+Vitacura:
+- Mestizo: fine dining in a nice park
+- La Mar: top Peruvian cuisine
+- Bidasoa: creative dishes and drinks, including excellent vegan options
+- Aqui está Coco: creative Chilean cuisine
+
+Meat restaurants: many options! famous ones include Eladio, La Cabrera, Las Vacas Gordas, Santa Brasa (various restaurants in different locations).
+
+Ñuñoa:
+- La Finestra: Italian
+- La Uruguaya: traditional Uruguayan meat restaurant
+
+
 ## Frequently Asked Questions
-*last updated: Nov 3, 2025*
+
 
 ### What facilities are available at Las Majadas?
 
