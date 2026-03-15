@@ -200,6 +200,25 @@ Vitacura:
 - Brisas del Mar: very good Peruvian
 
 
+### Santiago Main Spots
+
+If you have a few hours to spend in Santiago, here a couple of famous spots worth visiting.
+
+- Cerro San Cristobal: panoramic views of the city, gardens, pleasant walk up/down, can also use a funicular (Bellavista side)
+
+- Cerro Santa Lucia: urban park with a small castle, panoramic views (though much lower than San Cristobal)
+
+- Parque de las Esculturas: walk along the river
+
+- Presidential Palace La Moneda (and attached cultural center https://www.cclm.cl/)
+
+- Plaza de Armas / Cathedral: the historic center
+
+- Museum of Pre-Colombian Art (https://museo.precolombino.cl/)
+
+- Museum of Memory and Human Rights  (https://mmdh.cl/)
+
+- Los Dominicos fair: good quality handicraft for souvenirs
 
 
 ## Frequently Asked Questions
