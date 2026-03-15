@@ -25,10 +25,11 @@ Friday, March 27, noon.
   - [Outing](#outing) [updated Feb 26]
 - [Travel](#travel)
   - [Airport](#airport)
-  - [Customs Rules for Plant & Animal Products](#customs-rules-for-plant--animal-products) [Added Mar 14]
+  - [Customs Rules for Plant & Animal Products](#customs-rules-for-plant--animal-products) [Added Feb 26]
   - [Hotel](#hotel)
   - [Staying in Santiago](#staying-in-santiago)
-  - [Restaurant Recommendations](#restaurant-recommendations) [Added Feb 26]
+  - [Restaurant Recommendations](#restaurant-recommendations) [Added Mar 14]
+  - [Santiago Main Spots](#santiago-main-spots) [Added Mar 15]
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [What facilities are available at Las Majadas?](#what-facilities-are-available-at-las-majadas)
   - [How to purchase metro & bus tickets in Santiago?](#how-to-purchase-metro--bus-tickets-in-santiago)
