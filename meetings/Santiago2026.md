@@ -37,7 +37,7 @@ Friday, March 27, noon.
   - [What will the weather be like?](#what-will-the-weather-be-like)
   - [Power and video adapters?](#power-and-video-adapters)
   - [Will there be dinner and socializing on Sunday evening?](#will-there-be-dinner-and-socializing-on-sunday-evening)
-  - [Can I check-in late?](#can-i-check-in-late)
+  - [Can I check-in early/late?](#can-i-check-in-late)
   - [What about interesting tourist destinations in Chile?](#what-about-interesting-tourist-destinations-in-chile)
 
 
@@ -278,9 +278,11 @@ Yes, although not included in the registration.
 
 The hotel restaurant opens 7pm-10pm for dinner, and the tavern (pub) is open 10:30pm-2:00am.
 
-### Can I check-in late?
+### Can I check-in early/late?
 
-The hotel can accommodate checking in at any time.
+Check-in will be possible starting 3pm on the day of arrival.
+
+The hotel can accommodate checking in at any later time.
 
 
 ### What about interesting tourist destinations in Chile?
