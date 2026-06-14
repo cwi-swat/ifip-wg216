@@ -2,8 +2,8 @@
 
 ## Officers
 
-- Chair: [Tijs van der Storm](http://homepages.cwi.nl/~storm/)
-- Vice-Chair: [Heather Miller](http://heather.miller.am/)
+- Chair: [Robby Findler](http://www.eecs.northwestern.edu/~robby/)
+- Vice-Chair: [Manuel Serrano](https://www-sop.inria.fr/members/Manuel.Serrano/)
 - Secretary: [Jonathan Edwards](http://alarmingdevelopment.org/)
 
 
@@ -18,9 +18,9 @@
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.cs.pdx.edu/~black" target="_top">Andrew P. Black</a> </td><td bgcolor="#f6f6f6"> Portland State University </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://bracha.org/Site/Home.html" target="_top">Gilad Bracha</a> </td><td bgcolor="#ececec"> Shape Security </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://edwinb.wordpress.com/" target="_top">Edwin Brady</a> </td><td bgcolor="#f6f6f6"> University of St. Andrews </td><td bgcolor="#f6f6f6"> UK </td><td bgcolor="#f6f6f6"> 2015 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.cs.pomona.edu/~kim" target="_top">Kim Bruce</a> </td><td bgcolor="#ececec"> Pomona College </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.cs.pomona.edu/~kim" target="_top">Kim Bruce (Emeritus)</a> </td><td bgcolor="#ececec"> Pomona College </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://www.ponylang.io/" target="_top">Sylvan Clebsch</a> </td><td bgcolor="#f6f6f6"> Microsoft Research Cambridge </td><td bgcolor="#f6f6f6"> UK </td><td bgcolor="#f6f6f6"> 2019 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://adam.chlipala.net/" target="_top">Adam Chlipala</a> </td><td bgcolor="#f6f6f6"> MIT </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://adam.chlipala.net/" target="_top">Adam Chlipala (Emeritus)</a> </td><td bgcolor="#f6f6f6"> MIT </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="https://lukechurchnet.appspot.com/" target="_top">Luke Church</a> </td><td bgcolor="#ececec"> U. Cambridge </td><td bgcolor="#ececec"> UK </td><td bgcolor="#ececec"> 2017 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a class="twikiLink" href="TomVanCutsem.html">Tom Van Cutsem</a> </td><td bgcolor="#f6f6f6"> KU Leuven </td><td bgcolor="#f6f6f6"> BE </td><td bgcolor="#f6f6f6"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a class="twikiFirstCol" href="https://elm-lang.org">Evan Czaplicki</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td><td bgcolor="#f6f6f6"> DE </td><td bgcolor="#f6f6f6"> 2025 </td></tr>
@@ -34,10 +34,11 @@
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="https://www.inf.usi.ch/faculty/hauswirth/" target="_top">Matthias Hauswirth</a> </td><td bgcolor="#ececec"> University of Lugano </td><td bgcolor="#ececec"> CH </td><td bgcolor="#ececec"> 2018 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://www.cse.chalmers.se/~rjmh/" target="_top">John Hughes</a> </td><td bgcolor="#f6f6f6"> Chalmers University </td><td bgcolor="#f6f6f6"> SE </td><td bgcolor="#f6f6f6"> 2019 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.inf.puc-rio.br/~roberto/" target="_top">Roberto Ierusalimschy</a> </td><td bgcolor="#ececec"> PUC-Rio </td><td bgcolor="#ececec"> BR </td><td bgcolor="#ececec"> 2014 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="https://users.soe.ucsc.edu/~lkuper/" target="_top">Stephen Kell</a> </td><td bgcolor="#ececec"> King's College London </td><td bgcolor="#ececec"> UK </td><td bgcolor="#ececec"> 2026 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="https://users.soe.ucsc.edu/~lkuper/" target="_top">Lindsey Kuper</a> </td><td bgcolor="#ececec"> UC Santa Cruz </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2023 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://research.microsoft.com/en-us/people/daan/" target="_top">Daan Leijen</a> </td><td bgcolor="#f6f6f6"> Microsoft Research </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.ics.uci.edu/~lopes/" target="_top">Crista Lopes (Emeritus)</a> </td><td bgcolor="#ececec"> University of California Irvine </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
-<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://research.microsoft.com/people/smcdirm/" target="_top">Sean McDirmid</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
+<tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://research.microsoft.com/people/smcdirm/" target="_top">Sean McDirmid (Emeritus)</a> </td><td bgcolor="#f6f6f6"> &nbsp; </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2013 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="https://www.languagesforsyste.ms" target="_top">Mae Milano</a> </td><td bgcolor="#f6f6f6"> Princeton University </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2025 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#ececec"> <a href="http://www.linkedin.com/in/janwillemmaessen" target="_top">Jan-Willem Maessen</a> </td><td bgcolor="#ececec"> Oracle </td><td bgcolor="#ececec"> USA </td><td bgcolor="#ececec"> 2011 </td></tr>
 <tr><td class="twikiFirstCol" bgcolor="#f6f6f6"> <a href="http://heather.miller.am/" target="_top">Heather Miller</a> </td><td bgcolor="#f6f6f6"> CMU </td><td bgcolor="#f6f6f6"> USA </td><td bgcolor="#f6f6f6"> 2017 </td></tr>
