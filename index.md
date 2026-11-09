@@ -41,6 +41,7 @@ We need to affirm what really matters about programming languages, both to ourse
 - 16: [Pittsburgh 2024](meetings/Pittsburgh2024.md)
 - 17: [Serpiano 2025](meetings/Serpiano2025.md)
 - 18: [Santiago 2026](meetings/Santiago2026.md)
+- 19: [Prague 2027](meetings/Prague2027.md)
 
 [Photos](http://www.flickr.com/groups/wgld/)
 
